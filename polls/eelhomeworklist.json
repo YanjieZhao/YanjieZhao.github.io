@@ -1,0 +1,35 @@
+{
+	"homeWorkList":[
+		{
+			"dateString":"4æœˆ25æ—¥",
+			"url":"http://192.168.8.203:8082/pdfs/20220425.pdf",
+			"width":704,
+			"height":886,
+			"type":1
+		},
+		{
+			"dateString":"4æœˆ24æ—¥",
+			"url":"https://yanxuan-media.nosdn.127.net/ScreenCaptures/20220424.png",
+			"width":704,
+			"height":886
+		},
+		{
+			"dateString":"4æœˆ22æ—¥",
+			"url":"https://yanxuan-media.nosdn.127.net/ScreenCaptures/20220422.png",
+			"width":1216,
+			"height":1424
+		},
+		{
+			"dateString":"4æœˆ19æ—¥",
+			"url":"https://yanxuan-media.nosdn.127.net/Desktop/20220419.png",
+			"width":1600,
+			"height":2294
+		},
+		{
+			"dateString":"4æœˆ12æ—¥",
+			"url":"https://yanxuan-media.nosdn.127.net/Desktop/20220419.png",
+			"width":1600,
+			"height":2294
+		}
+	]
+}

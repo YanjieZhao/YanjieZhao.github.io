@@ -1,0 +1,17 @@
+{
+	"homeItems":[{
+		"title":"书写",
+		"type": 0,
+		"url": "/polls/wordslist.json"
+	},
+	{
+		"title": "作业",
+		"type": 1,
+		"url": "/polls/eelhomeworklist.json"
+	},
+	{
+		"title": "测试",
+		"type": 2,
+		"url": "/polls/eelhomeworklist.json"
+	}]
+}
