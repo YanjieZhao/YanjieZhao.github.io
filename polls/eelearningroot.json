@@ -10,6 +10,11 @@
 		"url": "/polls/eelhomeworklist.json"
 	},
 	{
+		"title": "今日任务",
+		"type": 3,
+		"url": "/polls/eeltasklist.json"
+	},
+	{
 		"title": "测试",
 		"type": 2,
 		"url": "/polls/eelhomeworklist.json"
