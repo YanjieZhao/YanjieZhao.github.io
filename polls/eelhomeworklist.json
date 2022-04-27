@@ -1,6 +1,13 @@
 {
 	"homeWorkList":[
 		{
+			"dateString":"4月27日",
+			"url":"http://yanjiezhao.github.io/pdfs/20220427.pdf",
+			"width":704,
+			"height":886,
+			"type":1
+		},
+		{
 			"dateString":"4æœˆ25æ—¥",
 			"url":"http://192.168.8.203:8082/pdfs/20220425.pdf",
 			"width":704,
