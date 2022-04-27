@@ -1,12 +1,16 @@
 {
 	"lessonList":[
         {
-            "title":"要下雨了",
-            "url":"/polls/yaoxiayule.json"
+			"title":"一分钟",
+			"url":"/polls/yifenzhong.json"
         },
         {
 			"title":"文具的家",
 			"url":"/polls/wenjudejia.json"
-		}
+        },
+        {
+            "title":"要下雨了",
+            "url":"/polls/yaoxiayule.json"
+        }
 	]
 }
