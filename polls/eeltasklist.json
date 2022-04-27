@@ -1,14 +1,17 @@
 {
     "taskList":[
         {
+            "title":"一个pdf",
             "type":0,
-            "url":""
+            "url":"http://yanjiezhao.github.io/pdfs/20220427.pdf"
         },
         {
+            "title":"一个视频",
             "type":1,
-            "url":""
+            "url":"https://img.kemanyun.com/kemanyun/16160/2020-01-16/5e204280e41e2.mp4"
         },
         {
+            "title":"一个音频列表",
             "type":2,
             "audioList":{
                 "title":"列表",
@@ -25,13 +28,20 @@
             }
         },
         {
+            "title":"一个通用url",
             "type":3,
             "url":""
         }
         ,
         {
+            "title":"一个张图片",
             "type":4,
-            "url":""
+            "imageInfo": {
+                "url":"https://yanxuan-media.nosdn.127.net/Desktop/20220419.png",
+                "width":1600,
+                "height":2294
+            }
+            
         }
     ]
 }
