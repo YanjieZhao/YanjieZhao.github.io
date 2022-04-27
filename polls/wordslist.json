@@ -5,6 +5,10 @@
 			"url":"/polls/yifenzhong.json"
         },
         {
+			"title":"动物王国开大会",
+			"url":"/polls/dongwuwangguokaidahui.json"
+        },
+        {
 			"title":"文具的家",
 			"url":"/polls/wenjudejia.json"
         },
