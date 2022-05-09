@@ -1,12 +1,16 @@
 {
 	"lessonList":[
         {
-			"title":"一分钟",
-			"url":"/polls/yifenzhong.json"
+			"title":"小猴下山",
+			"url":"/polls/xiaohouxiashan.json"
         },
         {
 			"title":"动物王国开大会",
 			"url":"/polls/dongwuwangguokaidahui.json"
+        },
+        {
+			"title":"一分钟",
+			"url":"/polls/yifenzhong.json"
         },
         {
 			"title":"文具的家",
