@@ -1,5 +1,10 @@
 {
 	"homeItems":[{
+		"title":"楷书",
+		"type": 0,
+		"url": "/polls/wordslist.json"
+	},
+	{
 		"title":"书写",
 		"type": 0,
 		"url": "/polls/wordslist.json"
