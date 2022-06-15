@@ -2,7 +2,7 @@
 	"lessonList":[
         {
 			"title":"笔画",
-			"url":"/polls/yifenzhong.json"
+			"url":"/polls/jxpbh.json"
         },
         {
 			"title":"偏旁部首",
@@ -10,7 +10,7 @@
         },
         {
 			"title":"间架结构",
-			"url":"/polls/yifenzhong.json"
+			"url":"/polls/jxpjjjg.json"
         },
         {
 			"title":"作品赏析",
