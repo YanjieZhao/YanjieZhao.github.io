@@ -2,7 +2,7 @@
 	"homeItems":[{
 		"title":"楷书",
 		"type": 0,
-		"url": "/polls/wordslist.json"
+		"url": "/polls/writtinglist.json"
 	},
 	{
 		"title":"书写",
