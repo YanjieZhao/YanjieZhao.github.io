@@ -13,12 +13,12 @@
 			"url":"/polls/zhiwumamayoubanfa.json"
         },
         {
-			"title":"文具的家",
-			"url":"/polls/wenjudejia.json"
+			"title":"识字1 场景歌",
+			"url":"/polls/changjingge.json"
         },
         {
-            "title":"要下雨了",
-            "url":"/polls/yaoxiayule.json"
+            "title":"识字2 树之歌",
+            "url":"/polls/shuzhige.json"
         }
 	]
 }
