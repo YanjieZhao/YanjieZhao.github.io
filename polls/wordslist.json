@@ -19,6 +19,26 @@
         {
             "title":"识字2 树之歌",
             "url":"/polls/shuzhige.json"
+        },
+        {
+            "title": "识字3 拍手歌",
+            "url": "/polls/shizi3paishouge.json"
+        },
+        {
+            "title": "识字4 田家四季歌",
+            "url": "/polls/shizi4tianjiasijige.json"
+        },
+        {
+            "title": "课文4 曹冲称象",
+            "url": "/polls/kewen4caochongchengxiang.json"
+        },
+        {
+            "title": "课文5 玲玲的画",
+            "url": "/polls/kewen5linglingdehua.json"
+        },
+        {
+            "title": "课文6 一封信",
+            "url": "/polls/kewen6yifengxin.json"
         }
 	]
 }
