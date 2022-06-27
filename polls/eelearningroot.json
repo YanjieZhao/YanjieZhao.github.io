@@ -10,6 +10,11 @@
 		"url": "/polls/wordslist.json"
 	},
 	{
+		"title":"一下书写",
+		"type": 0,
+		"url": "/polls/wordslist_yixia.json"
+	},
+	{
 		"title": "作业",
 		"type": 1,
 		"url": "/polls/eelhomeworklist.json"
