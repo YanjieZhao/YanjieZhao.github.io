@@ -18,5 +18,10 @@
 		"title": "作业",
 		"type": 1,
 		"url": "/polls/eelhomeworklist.json"
-	}]
+	},
+    {
+        "title": "单词",
+        "type": 4,
+        "url": "/polls/english/wordsgroups.json"
+    }]
 }
