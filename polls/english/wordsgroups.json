@@ -1,0 +1,22 @@
+{
+    "title":"英语单词列表",
+    "groups":[
+        {
+            "title":"神奇校车4",
+            "words":[
+                {
+                    "word":"word",
+                    "meaning":"单词，词组",
+                    "pronounce":"https://yanjiezhao.github.io/mp3s/light.mp3",
+                    "examples":[
+                        {
+                            "sentence":"This is a word",
+                            "pronounce":"https://yanjiezhao.github.io/mp3s/light.mp3",
+                        }
+                    ],
+                    "img":""
+                }
+            ]
+        }
+    ]
+}
