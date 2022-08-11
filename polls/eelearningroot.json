@@ -22,6 +22,6 @@
     {
         "title": "单词",
         "type": 4,
-        "url": "/polls/english/wordsgroups.json"
+        "url": "/polls/english/enwordsgroups.json"
     }]
 }

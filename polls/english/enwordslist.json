@@ -1,0 +1,41 @@
+{
+    "title":"神奇校车4",
+    "words":[
+        {
+            "word":"word",
+            "meaning":"单词，词组",
+            "pronounce":"https://yanjiezhao.github.io/mp3s/word.mp3",
+            "examples":[
+                {
+                    "sentence":"This is a word",
+                    "pronounce":"https://yanjiezhao.github.io/mp3s/word.mp3"
+                }
+            ],
+            "img":""
+        },
+        {
+            "word":"light",
+            "meaning":"光，轻",
+            "pronounce":"https://yanjiezhao.github.io/mp3s/light.mp3",
+            "examples":[
+                {
+                    "sentence":"The light is strong!",
+                    "pronounce":"https://yanjiezhao.github.io/mp3s/light.mp3"
+                }
+            ],
+            "img":""
+        },
+        {
+            "word":"light",
+            "meaning":"光，轻",
+            "pronounce":"https://yanjiezhao.github.io/mp3s/light.mp3",
+            "examples":[
+                {
+                    "sentence":"The light is strong!",
+                    "pronounce":"https://yanjiezhao.github.io/mp3s/x.mp3"
+                }
+            ],
+            "img":""
+        }
+    ]
+}
