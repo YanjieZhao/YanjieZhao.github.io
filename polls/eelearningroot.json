@@ -18,5 +18,10 @@
         "title": "单词",
         "type": 4,
         "url": "/polls/english/enwordsgroups.json"
+    },
+    {
+        "title": "识字",
+        "type": 5,
+        "url": "/polls/shizi/shizilist.json"
     }]
 }
