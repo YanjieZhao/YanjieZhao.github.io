@@ -2,20 +2,12 @@
     "title":"识字列表",
     "list":[
         {
-            "title":"四年级下(一)",
-            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_sixia1.json"
+            "title":"二下(一)",
+            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_erxia1.json"
         },
         {
-            "title":"四年级下(二)",
-            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_sixia2.json"
-        },
-        {
-            "title":"四年级下(三)",
-            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_sixia3.json"
-        },
-        {
-            "title":"四年级下(四)",
-            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_sixia4.json"
+            "title":"二下(二)",
+            "url":"https://yanjiezhao.github.io/polls/shizi/shizi_erxia2.json"
         }
     ]
 }
