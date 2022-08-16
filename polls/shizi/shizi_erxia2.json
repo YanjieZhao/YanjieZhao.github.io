@@ -1,2042 +1,2045 @@
-[
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/becbbe8d9ea784e948b60e6efb870f06e.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "shà",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/sha4.mp3"
-            },
-            {
-                "pinyin": "xià",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/xia4.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=大厦&cf=zuci&ptype=term",
-                "word": "大厦"
-            },
-            {
-                "url": "?wd=抱厦&cf=zuci&ptype=term",
-                "word": "抱厦"
-            },
-            {
-                "url": "?wd=后厦&cf=zuci&ptype=term",
-                "word": "后厦"
-            },
-            {
-                "url": "?wd=噶厦&cf=zuci&ptype=term",
-                "word": "噶厦"
-            },
-            {
-                "url": "?wd=偏厦&cf=zuci&ptype=term",
-                "word": "偏厦"
-            },
-            {
-                "url": "?wd=商厦&cf=zuci&ptype=term",
-                "word": "商厦"
-            },
-            {
-                "url": "?wd=曝厦&cf=zuci&ptype=term",
-                "word": "曝厦"
-            },
-            {
-                "url": "?wd=厦覆&cf=zuci&ptype=term",
-                "word": "厦覆"
-            },
-            {
-                "url": "?wd=厦房&cf=zuci&ptype=term",
-                "word": "厦房"
-            },
-            {
-                "url": "?wd=贺厦&cf=zuci&ptype=term",
-                "word": "贺厦"
-            },
-            {
-                "url": "?wd=旃厦&cf=zuci&ptype=term",
-                "word": "旃厦"
-            },
-            {
-                "url": "?wd=厦屋&cf=zuci&ptype=term",
-                "word": "厦屋"
-            },
-            {
-                "url": "?wd=厦门&cf=zuci&ptype=term",
-                "word": "厦门"
-            },
-            {
-                "url": "?wd=穾厦&cf=zuci&ptype=term",
-                "word": "穾厦"
-            }
-        ],
-        "word": "厦"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b693bacc113ab4425ba22678275a3f779.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "yáo",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/yao2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=窑坑&cf=zuci&ptype=term",
-                "word": "窑坑"
-            },
-            {
-                "url": "?wd=煤窑&cf=zuci&ptype=term",
-                "word": "煤窑"
-            },
-            {
-                "url": "?wd=窑洞&cf=zuci&ptype=term",
-                "word": "窑洞"
-            },
-            {
-                "url": "?wd=瓷窑&cf=zuci&ptype=term",
-                "word": "瓷窑"
-            },
-            {
-                "url": "?wd=烧窑&cf=zuci&ptype=term",
-                "word": "烧窑"
-            },
-            {
-                "url": "?wd=瓯窑&cf=zuci&ptype=term",
-                "word": "瓯窑"
-            },
-            {
-                "url": "?wd=窑课&cf=zuci&ptype=term",
-                "word": "窑课"
-            },
-            {
-                "url": "?wd=官窑&cf=zuci&ptype=term",
-                "word": "官窑"
-            },
-            {
-                "url": "?wd=窑作&cf=zuci&ptype=term",
-                "word": "窑作"
-            },
-            {
-                "url": "?wd=窑葬&cf=zuci&ptype=term",
-                "word": "窑葬"
-            },
-            {
-                "url": "?wd=窑调&cf=zuci&ptype=term",
-                "word": "窑调"
-            },
-            {
-                "url": "?wd=隆窑&cf=zuci&ptype=term",
-                "word": "隆窑"
-            },
-            {
-                "url": "?wd=窑门&cf=zuci&ptype=term",
-                "word": "窑门"
-            },
-            {
-                "url": "?wd=装窑&cf=zuci&ptype=term",
-                "word": "装窑"
-            }
-        ],
-        "word": "窑"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b32c3c79469564471a94ac4eff0839ee7.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "lǐng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ling3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=山岭&cf=zuci&ptype=term",
-                "word": "山岭"
-            },
-            {
-                "url": "?wd=岭南&cf=zuci&ptype=term",
-                "word": "岭南"
-            },
-            {
-                "url": "?wd=秦岭&cf=zuci&ptype=term",
-                "word": "秦岭"
-            },
-            {
-                "url": "?wd=海岭&cf=zuci&ptype=term",
-                "word": "海岭"
-            },
-            {
-                "url": "?wd=五岭&cf=zuci&ptype=term",
-                "word": "五岭"
-            },
-            {
-                "url": "?wd=匡岭&cf=zuci&ptype=term",
-                "word": "匡岭"
-            },
-            {
-                "url": "?wd=南岭&cf=zuci&ptype=term",
-                "word": "南岭"
-            },
-            {
-                "url": "?wd=霞岭&cf=zuci&ptype=term",
-                "word": "霞岭"
-            },
-            {
-                "url": "?wd=岭越&cf=zuci&ptype=term",
-                "word": "岭越"
-            },
-            {
-                "url": "?wd=岭左&cf=zuci&ptype=term",
-                "word": "岭左"
-            },
-            {
-                "url": "?wd=缑岭&cf=zuci&ptype=term",
-                "word": "缑岭"
-            },
-            {
-                "url": "?wd=嵰岭&cf=zuci&ptype=term",
-                "word": "嵰岭"
-            },
-            {
-                "url": "?wd=沙岭&cf=zuci&ptype=term",
-                "word": "沙岭"
-            },
-            {
-                "url": "?wd=曾岭&cf=zuci&ptype=term",
-                "word": "曾岭"
-            }
-        ],
-        "word": "岭"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b840aaf76491d47c8b0ee573804d29186.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "chuí",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/chui2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=垂柳&cf=zuci&ptype=term",
-                "word": "垂柳"
-            },
-            {
-                "url": "?wd=垂危&cf=zuci&ptype=term",
-                "word": "垂危"
-            },
-            {
-                "url": "?wd=垂直&cf=zuci&ptype=term",
-                "word": "垂直"
-            },
-            {
-                "url": "?wd=垂头&cf=zuci&ptype=term",
-                "word": "垂头"
-            },
-            {
-                "url": "?wd=垂涎&cf=zuci&ptype=term",
-                "word": "垂涎"
-            },
-            {
-                "url": "?wd=垂髫&cf=zuci&ptype=term",
-                "word": "垂髫"
-            },
-            {
-                "url": "?wd=垂范&cf=zuci&ptype=term",
-                "word": "垂范"
-            },
-            {
-                "url": "?wd=垂老&cf=zuci&ptype=term",
-                "word": "垂老"
-            },
-            {
-                "url": "?wd=垂问&cf=zuci&ptype=term",
-                "word": "垂问"
-            },
-            {
-                "url": "?wd=垂怜&cf=zuci&ptype=term",
-                "word": "垂怜"
-            },
-            {
-                "url": "?wd=垂泪&cf=zuci&ptype=term",
-                "word": "垂泪"
-            },
-            {
-                "url": "?wd=垂手&cf=zuci&ptype=term",
-                "word": "垂手"
-            },
-            {
-                "url": "?wd=垂青&cf=zuci&ptype=term",
-                "word": "垂青"
-            },
-            {
-                "url": "?wd=垂垂&cf=zuci&ptype=term",
-                "word": "垂垂"
-            }
-        ],
-        "word": "垂"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b80d3374e0cb74c4eb49c887497350044.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "chóu",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/chou2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=稠密&cf=zuci&ptype=term",
-                "word": "稠密"
-            },
-            {
-                "url": "?wd=黏稠&cf=zuci&ptype=term",
-                "word": "黏稠"
-            },
-            {
-                "url": "?wd=稠糊&cf=zuci&ptype=term",
-                "word": "稠糊"
-            },
-            {
-                "url": "?wd=星稠&cf=zuci&ptype=term",
-                "word": "星稠"
-            },
-            {
-                "url": "?wd=稠庶&cf=zuci&ptype=term",
-                "word": "稠庶"
-            },
-            {
-                "url": "?wd=稠穰&cf=zuci&ptype=term",
-                "word": "稠穰"
-            },
-            {
-                "url": "?wd=密稠&cf=zuci&ptype=term",
-                "word": "密稠"
-            },
-            {
-                "url": "?wd=稀稠&cf=zuci&ptype=term",
-                "word": "稀稠"
-            },
-            {
-                "url": "?wd=稠适&cf=zuci&ptype=term",
-                "word": "稠适"
-            },
-            {
-                "url": "?wd=稠伙&cf=zuci&ptype=term",
-                "word": "稠伙"
-            },
-            {
-                "url": "?wd=稠沓&cf=zuci&ptype=term",
-                "word": "稠沓"
-            },
-            {
-                "url": "?wd=稠稠&cf=zuci&ptype=term",
-                "word": "稠稠"
-            },
-            {
-                "url": "?wd=稠黏&cf=zuci&ptype=term",
-                "word": "稠黏"
-            },
-            {
-                "url": "?wd=稠涎&cf=zuci&ptype=term",
-                "word": "稠涎"
-            }
-        ],
-        "word": "稠"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b83d536c8673642f3bd09e5376b5cf540.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "qú",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/qu2.mp3"
-            },
-            {
-                "pinyin": "jù",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ju4.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=沟渠&cf=zuci&ptype=term",
-                "word": "沟渠"
-            },
-            {
-                "url": "?wd=渠道&cf=zuci&ptype=term",
-                "word": "渠道"
-            },
-            {
-                "url": "?wd=毛渠&cf=zuci&ptype=term",
-                "word": "毛渠"
-            },
-            {
-                "url": "?wd=水渠&cf=zuci&ptype=term",
-                "word": "水渠"
-            },
-            {
-                "url": "?wd=明渠&cf=zuci&ptype=term",
-                "word": "明渠"
-            },
-            {
-                "url": "?wd=斗渠&cf=zuci&ptype=term",
-                "word": "斗渠"
-            },
-            {
-                "url": "?wd=河渠&cf=zuci&ptype=term",
-                "word": "河渠"
-            },
-            {
-                "url": "?wd=支渠&cf=zuci&ptype=term",
-                "word": "支渠"
-            },
-            {
-                "url": "?wd=轩渠&cf=zuci&ptype=term",
-                "word": "轩渠"
-            },
-            {
-                "url": "?wd=雝渠&cf=zuci&ptype=term",
-                "word": "雝渠"
-            },
-            {
-                "url": "?wd=渠堑&cf=zuci&ptype=term",
-                "word": "渠堑"
-            },
-            {
-                "url": "?wd=洪渠&cf=zuci&ptype=term",
-                "word": "洪渠"
-            },
-            {
-                "url": "?wd=贯渠&cf=zuci&ptype=term",
-                "word": "贯渠"
-            },
-            {
-                "url": "?wd=浚渠&cf=zuci&ptype=term",
-                "word": "浚渠"
-            }
-        ],
-        "word": "渠"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bf1407b0a276d43ffac66e571a58b88ce.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "lǎn",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lan3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=阅览&cf=zuci&ptype=term",
-                "word": "阅览"
-            },
-            {
-                "url": "?wd=博览&cf=zuci&ptype=term",
-                "word": "博览"
-            },
-            {
-                "url": "?wd=展览&cf=zuci&ptype=term",
-                "word": "展览"
-            },
-            {
-                "url": "?wd=浏览&cf=zuci&ptype=term",
-                "word": "浏览"
-            },
-            {
-                "url": "?wd=饱览&cf=zuci&ptype=term",
-                "word": "饱览"
-            },
-            {
-                "url": "?wd=游览&cf=zuci&ptype=term",
-                "word": "游览"
-            },
-            {
-                "url": "?wd=俯览&cf=zuci&ptype=term",
-                "word": "俯览"
-            },
-            {
-                "url": "?wd=要览&cf=zuci&ptype=term",
-                "word": "要览"
-            },
-            {
-                "url": "?wd=观览&cf=zuci&ptype=term",
-                "word": "观览"
-            },
-            {
-                "url": "?wd=一览&cf=zuci&ptype=term",
-                "word": "一览"
-            },
-            {
-                "url": "?wd=纵览&cf=zuci&ptype=term",
-                "word": "纵览"
-            },
-            {
-                "url": "?wd=披览&cf=zuci&ptype=term",
-                "word": "披览"
-            },
-            {
-                "url": "?wd=览胜&cf=zuci&ptype=term",
-                "word": "览胜"
-            },
-            {
-                "url": "?wd=便览&cf=zuci&ptype=term",
-                "word": "便览"
-            }
-        ],
-        "word": "览"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b1563dce9860f47e6b50c0b73e332c6e9.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "dā",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/da1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=耷拉&cf=zuci&ptype=term",
-                "word": "耷拉"
-            },
-            {
-                "url": "?wd=挂耷&cf=zuci&ptype=term",
-                "word": "挂耷"
-            },
-            {
-                "url": "?wd=朱耷&cf=zuci&ptype=term",
-                "word": "朱耷"
-            },
-            {
-                "url": "?wd=蔫头耷脑&cf=zuci&ptype=term",
-                "word": "蔫头耷脑"
-            },
-            {
-                "url": "?wd=滴里耷拉&cf=zuci&ptype=term",
-                "word": "滴里耷拉"
-            },
-            {
-                "url": "?wd=臊眉耷眼&cf=zuci&ptype=term",
-                "word": "臊眉耷眼"
-            },
-            {
-                "url": "?wd=低头耷脑&cf=zuci&ptype=term",
-                "word": "低头耷脑"
-            },
-            {
-                "url": "#",
-                "word": null
-            }
-        ],
-        "word": "耷"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/be52f8ee80d7842509b9782a861a882e5.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "cōng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/cong1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=匆匆&cf=zuci&ptype=term",
-                "word": "匆匆"
-            },
-            {
-                "url": "?wd=匆忙&cf=zuci&ptype=term",
-                "word": "匆忙"
-            },
-            {
-                "url": "?wd=匆促&cf=zuci&ptype=term",
-                "word": "匆促"
-            },
-            {
-                "url": "?wd=匆猝&cf=zuci&ptype=term",
-                "word": "匆猝"
-            },
-            {
-                "url": "?wd=匆遽&cf=zuci&ptype=term",
-                "word": "匆遽"
-            },
-            {
-                "url": "?wd=匆剧&cf=zuci&ptype=term",
-                "word": "匆剧"
-            },
-            {
-                "url": "?wd=匆卒&cf=zuci&ptype=term",
-                "word": "匆卒"
-            },
-            {
-                "url": "?wd=急匆匆&cf=zuci&ptype=term",
-                "word": "急匆匆"
-            },
-            {
-                "url": "?wd=兴匆匆&cf=zuci&ptype=term",
-                "word": "兴匆匆"
-            },
-            {
-                "url": "?wd=行色匆匆&cf=zuci&ptype=term",
-                "word": "行色匆匆"
-            },
-            {
-                "url": "?wd=匆匆忙忙&cf=zuci&ptype=term",
-                "word": "匆匆忙忙"
-            },
-            {
-                "url": "?wd=形色匆忙&cf=zuci&ptype=term",
-                "word": "形色匆忙"
-            },
-            {
-                "url": "?wd=匆匆一别&cf=zuci&ptype=term",
-                "word": "匆匆一别"
-            },
-            {
-                "url": "?wd=步履匆匆&cf=zuci&ptype=term",
-                "word": "步履匆匆"
-            }
-        ],
-        "word": "匆"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b72a3972f2a0e4543af5e9ab5d4a5bc5e.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "pái",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/pai2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=招牌&cf=zuci&ptype=term",
-                "word": "招牌"
-            },
-            {
-                "url": "?wd=门牌&cf=zuci&ptype=term",
-                "word": "门牌"
-            },
-            {
-                "url": "?wd=词牌&cf=zuci&ptype=term",
-                "word": "词牌"
-            },
-            {
-                "url": "?wd=牌匾&cf=zuci&ptype=term",
-                "word": "牌匾"
-            },
-            {
-                "url": "?wd=斗牌&cf=zuci&ptype=term",
-                "word": "斗牌"
-            },
-            {
-                "url": "?wd=牌九&cf=zuci&ptype=term",
-                "word": "牌九"
-            },
-            {
-                "url": "?wd=牙牌&cf=zuci&ptype=term",
-                "word": "牙牌"
-            },
-            {
-                "url": "?wd=曲牌&cf=zuci&ptype=term",
-                "word": "曲牌"
-            },
-            {
-                "url": "?wd=桥牌&cf=zuci&ptype=term",
-                "word": "桥牌"
-            },
-            {
-                "url": "?wd=杂牌&cf=zuci&ptype=term",
-                "word": "杂牌"
-            },
-            {
-                "url": "?wd=正牌&cf=zuci&ptype=term",
-                "word": "正牌"
-            },
-            {
-                "url": "?wd=骨牌&cf=zuci&ptype=term",
-                "word": "骨牌"
-            },
-            {
-                "url": "?wd=牌照&cf=zuci&ptype=term",
-                "word": "牌照"
-            },
-            {
-                "url": "?wd=摊牌&cf=zuci&ptype=term",
-                "word": "摊牌"
-            }
-        ],
-        "word": "牌"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bc5c20dd631d646f9b246bc32bb079839.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "yīn",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/yin1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=连茵&cf=zuci&ptype=term",
-                "word": "连茵"
-            },
-            {
-                "url": "?wd=累茵&cf=zuci&ptype=term",
-                "word": "累茵"
-            },
-            {
-                "url": "?wd=茵伏&cf=zuci&ptype=term",
-                "word": "茵伏"
-            },
-            {
-                "url": "?wd=茵陈&cf=zuci&ptype=term",
-                "word": "茵陈"
-            },
-            {
-                "url": "?wd=重茵&cf=zuci&ptype=term",
-                "word": "重茵"
-            },
-            {
-                "url": "?wd=如茵&cf=zuci&ptype=term",
-                "word": "如茵"
-            },
-            {
-                "url": "?wd=苔茵&cf=zuci&ptype=term",
-                "word": "苔茵"
-            },
-            {
-                "url": "?wd=乘茵&cf=zuci&ptype=term",
-                "word": "乘茵"
-            },
-            {
-                "url": "?wd=绿茵&cf=zuci&ptype=term",
-                "word": "绿茵"
-            },
-            {
-                "url": "?wd=茵轼&cf=zuci&ptype=term",
-                "word": "茵轼"
-            },
-            {
-                "url": "?wd=牀茵&cf=zuci&ptype=term",
-                "word": "牀茵"
-            },
-            {
-                "url": "?wd=罗茵&cf=zuci&ptype=term",
-                "word": "罗茵"
-            },
-            {
-                "url": "?wd=软茵&cf=zuci&ptype=term",
-                "word": "软茵"
-            },
-            {
-                "url": "?wd=茵幕&cf=zuci&ptype=term",
-                "word": "茵幕"
-            }
-        ],
-        "word": "茵"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b029a5934c839464da2e423c22f166e94.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "lián",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lian2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=可怜&cf=zuci&ptype=term",
-                "word": "可怜"
-            },
-            {
-                "url": "?wd=怜悯&cf=zuci&ptype=term",
-                "word": "怜悯"
-            },
-            {
-                "url": "?wd=怜爱&cf=zuci&ptype=term",
-                "word": "怜爱"
-            },
-            {
-                "url": "?wd=乞怜&cf=zuci&ptype=term",
-                "word": "乞怜"
-            },
-            {
-                "url": "?wd=垂怜&cf=zuci&ptype=term",
-                "word": "垂怜"
-            },
-            {
-                "url": "?wd=顾怜&cf=zuci&ptype=term",
-                "word": "顾怜"
-            },
-            {
-                "url": "?wd=爱怜&cf=zuci&ptype=term",
-                "word": "爱怜"
-            },
-            {
-                "url": "?wd=怜惜&cf=zuci&ptype=term",
-                "word": "怜惜"
-            },
-            {
-                "url": "?wd=怜恤&cf=zuci&ptype=term",
-                "word": "怜恤"
-            },
-            {
-                "url": "?wd=哀怜&cf=zuci&ptype=term",
-                "word": "哀怜"
-            },
-            {
-                "url": "?wd=怜拯&cf=zuci&ptype=term",
-                "word": "怜拯"
-            },
-            {
-                "url": "?wd=逞怜&cf=zuci&ptype=term",
-                "word": "逞怜"
-            },
-            {
-                "url": "?wd=矜怜&cf=zuci&ptype=term",
-                "word": "矜怜"
-            },
-            {
-                "url": "?wd=怜鉴&cf=zuci&ptype=term",
-                "word": "怜鉴"
-            }
-        ],
-        "word": "怜"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b58dd0a16bd3a42838227e0083a4644cd.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "nuó",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/nuo2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=挪移&cf=zuci&ptype=term",
-                "word": "挪移"
-            },
-            {
-                "url": "?wd=挪动&cf=zuci&ptype=term",
-                "word": "挪动"
-            },
-            {
-                "url": "?wd=腾挪&cf=zuci&ptype=term",
-                "word": "腾挪"
-            },
-            {
-                "url": "?wd=挪借&cf=zuci&ptype=term",
-                "word": "挪借"
-            },
-            {
-                "url": "?wd=挪用&cf=zuci&ptype=term",
-                "word": "挪用"
-            },
-            {
-                "url": "?wd=搓挪&cf=zuci&ptype=term",
-                "word": "搓挪"
-            },
-            {
-                "url": "?wd=支挪&cf=zuci&ptype=term",
-                "word": "支挪"
-            },
-            {
-                "url": "?wd=迁挪&cf=zuci&ptype=term",
-                "word": "迁挪"
-            },
-            {
-                "url": "?wd=挪步&cf=zuci&ptype=term",
-                "word": "挪步"
-            },
-            {
-                "url": "?wd=挪蹭&cf=zuci&ptype=term",
-                "word": "挪蹭"
-            },
-            {
-                "url": "?wd=揉挪&cf=zuci&ptype=term",
-                "word": "揉挪"
-            },
-            {
-                "url": "?wd=移挪&cf=zuci&ptype=term",
-                "word": "移挪"
-            },
-            {
-                "url": "?wd=侵挪&cf=zuci&ptype=term",
-                "word": "侵挪"
-            },
-            {
-                "url": "?wd=通挪&cf=zuci&ptype=term",
-                "word": "通挪"
-            }
-        ],
-        "word": "挪"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b1857233aabd6496fa2f1bf81dc693981.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "jié",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jie2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=竭尽&cf=zuci&ptype=term",
-                "word": "竭尽"
-            },
-            {
-                "url": "?wd=竭诚&cf=zuci&ptype=term",
-                "word": "竭诚"
-            },
-            {
-                "url": "?wd=竭力&cf=zuci&ptype=term",
-                "word": "竭力"
-            },
-            {
-                "url": "?wd=枯竭&cf=zuci&ptype=term",
-                "word": "枯竭"
-            },
-            {
-                "url": "?wd=告竭&cf=zuci&ptype=term",
-                "word": "告竭"
-            },
-            {
-                "url": "?wd=衰竭&cf=zuci&ptype=term",
-                "word": "衰竭"
-            },
-            {
-                "url": "?wd=穷竭&cf=zuci&ptype=term",
-                "word": "穷竭"
-            },
-            {
-                "url": "?wd=匮竭&cf=zuci&ptype=term",
-                "word": "匮竭"
-            },
-            {
-                "url": "?wd=耗竭&cf=zuci&ptype=term",
-                "word": "耗竭"
-            },
-            {
-                "url": "?wd=竭蹶&cf=zuci&ptype=term",
-                "word": "竭蹶"
-            },
-            {
-                "url": "?wd=竭愚&cf=zuci&ptype=term",
-                "word": "竭愚"
-            },
-            {
-                "url": "?wd=竭节&cf=zuci&ptype=term",
-                "word": "竭节"
-            },
-            {
-                "url": "?wd=输竭&cf=zuci&ptype=term",
-                "word": "输竭"
-            },
-            {
-                "url": "?wd=竭精&cf=zuci&ptype=term",
-                "word": "竭精"
-            }
-        ],
-        "word": "竭"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b8d1a8cbcd1834594857f1002bb3e4af4.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "dài",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/dai4.mp3"
-            },
-            {
-                "pinyin": "dāi",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/dai1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=期待&cf=zuci&ptype=term",
-                "word": "期待"
-            },
-            {
-                "url": "?wd=接待&cf=zuci&ptype=term",
-                "word": "接待"
-            },
-            {
-                "url": "?wd=担待&cf=zuci&ptype=term",
-                "word": "担待"
-            },
-            {
-                "url": "?wd=等待&cf=zuci&ptype=term",
-                "word": "等待"
-            },
-            {
-                "url": "?wd=款待&cf=zuci&ptype=term",
-                "word": "款待"
-            },
-            {
-                "url": "?wd=招待&cf=zuci&ptype=term",
-                "word": "招待"
-            },
-            {
-                "url": "?wd=善待&cf=zuci&ptype=term",
-                "word": "善待"
-            },
-            {
-                "url": "?wd=待诏&cf=zuci&ptype=term",
-                "word": "待诏"
-            },
-            {
-                "url": "?wd=慢待&cf=zuci&ptype=term",
-                "word": "慢待"
-            },
-            {
-                "url": "?wd=有待&cf=zuci&ptype=term",
-                "word": "有待"
-            },
-            {
-                "url": "?wd=留待&cf=zuci&ptype=term",
-                "word": "留待"
-            },
-            {
-                "url": "?wd=待字&cf=zuci&ptype=term",
-                "word": "待字"
-            },
-            {
-                "url": "?wd=不待&cf=zuci&ptype=term",
-                "word": "不待"
-            },
-            {
-                "url": "?wd=待考&cf=zuci&ptype=term",
-                "word": "待考"
-            }
-        ],
-        "word": "待"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49db5a6b427711e5b4f5c8e0eb15ce01.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "zhèng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng4.mp3"
-            },
-            {
-                "pinyin": "zhēng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=挣钱&cf=zuci&ptype=term",
-                "word": "挣钱"
-            },
-            {
-                "url": "?wd=挣揣&cf=zuci&ptype=term",
-                "word": "挣揣"
-            },
-            {
-                "url": "?wd=挣扎&cf=zuci&ptype=term",
-                "word": "挣扎"
-            },
-            {
-                "url": "?wd=硬挣&cf=zuci&ptype=term",
-                "word": "硬挣"
-            },
-            {
-                "url": "?wd=挣命&cf=zuci&ptype=term",
-                "word": "挣命"
-            },
-            {
-                "url": "?wd=扎挣&cf=zuci&ptype=term",
-                "word": "扎挣"
-            },
-            {
-                "url": "?wd=挣挫&cf=zuci&ptype=term",
-                "word": "挣挫"
-            },
-            {
-                "url": "?wd=挣持&cf=zuci&ptype=term",
-                "word": "挣持"
-            },
-            {
-                "url": "?wd=呆挣&cf=zuci&ptype=term",
-                "word": "呆挣"
-            },
-            {
-                "url": "?wd=挣断&cf=zuci&ptype=term",
-                "word": "挣断"
-            },
-            {
-                "url": "?wd=执挣&cf=zuci&ptype=term",
-                "word": "执挣"
-            },
-            {
-                "url": "?wd=敌挣&cf=zuci&ptype=term",
-                "word": "敌挣"
-            },
-            {
-                "url": "?wd=挣本&cf=zuci&ptype=term",
-                "word": "挣本"
-            },
-            {
-                "url": "?wd=挣趱&cf=zuci&ptype=term",
-                "word": "挣趱"
-            }
-        ],
-        "word": "挣"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b97af35e89b3a496593ffb4e44d3ab99f.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "zhǒu",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zhou3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=扫帚&cf=zuci&ptype=term",
-                "word": "扫帚"
-            },
-            {
-                "url": "?wd=笤帚&cf=zuci&ptype=term",
-                "word": "笤帚"
-            },
-            {
-                "url": "?wd=炊帚&cf=zuci&ptype=term",
-                "word": "炊帚"
-            },
-            {
-                "url": "?wd=帚姑&cf=zuci&ptype=term",
-                "word": "帚姑"
-            },
-            {
-                "url": "?wd=敝帚&cf=zuci&ptype=term",
-                "word": "敝帚"
-            },
-            {
-                "url": "?wd=椶帚&cf=zuci&ptype=term",
-                "word": "椶帚"
-            },
-            {
-                "url": "?wd=风帚&cf=zuci&ptype=term",
-                "word": "风帚"
-            },
-            {
-                "url": "?wd=弊帚&cf=zuci&ptype=term",
-                "word": "弊帚"
-            },
-            {
-                "url": "?wd=享帚&cf=zuci&ptype=term",
-                "word": "享帚"
-            },
-            {
-                "url": "?wd=帚星&cf=zuci&ptype=term",
-                "word": "帚星"
-            },
-            {
-                "url": "?wd=宝帚&cf=zuci&ptype=term",
-                "word": "宝帚"
-            },
-            {
-                "url": "?wd=梳帚&cf=zuci&ptype=term",
-                "word": "梳帚"
-            },
-            {
-                "url": "?wd=天帚&cf=zuci&ptype=term",
-                "word": "天帚"
-            },
-            {
-                "url": "?wd=鸾帚&cf=zuci&ptype=term",
-                "word": "鸾帚"
-            }
-        ],
-        "word": "帚"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49d97da1427711e58b4ac8e0eb15ce01.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "mǒ",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/mo3.mp3"
-            },
-            {
-                "pinyin": "mò",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/mo4.mp3"
-            },
-            {
-                "pinyin": "mā",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ma1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=抹布&cf=zuci&ptype=term",
-                "word": "抹布"
-            },
-            {
-                "url": "?wd=涂抹&cf=zuci&ptype=term",
-                "word": "涂抹"
-            },
-            {
-                "url": "?wd=抹黑&cf=zuci&ptype=term",
-                "word": "抹黑"
-            },
-            {
-                "url": "?wd=抹煞&cf=zuci&ptype=term",
-                "word": "抹煞"
-            },
-            {
-                "url": "?wd=抹子&cf=zuci&ptype=term",
-                "word": "抹子"
-            },
-            {
-                "url": "?wd=抹搭&cf=zuci&ptype=term",
-                "word": "抹搭"
-            },
-            {
-                "url": "?wd=抹杀&cf=zuci&ptype=term",
-                "word": "抹杀"
-            },
-            {
-                "url": "?wd=抹零&cf=zuci&ptype=term",
-                "word": "抹零"
-            },
-            {
-                "url": "?wd=抹脸&cf=zuci&ptype=term",
-                "word": "抹脸"
-            },
-            {
-                "url": "?wd=抹刷&cf=zuci&ptype=term",
-                "word": "抹刷"
-            },
-            {
-                "url": "?wd=帑抹&cf=zuci&ptype=term",
-                "word": "帑抹"
-            },
-            {
-                "url": "?wd=量抹&cf=zuci&ptype=term",
-                "word": "量抹"
-            },
-            {
-                "url": "?wd=抹勒&cf=zuci&ptype=term",
-                "word": "抹勒"
-            },
-            {
-                "url": "?wd=抹面&cf=zuci&ptype=term",
-                "word": "抹面"
-            }
-        ],
-        "word": "抹"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49f2a7b3427711e5ace2c8e0eb15ce01.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "bò",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/bo4.mp3"
-            },
-            {
-                "pinyin": "bǒ",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/bo3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=颠簸&cf=zuci&ptype=term",
-                "word": "颠簸"
-            },
-            {
-                "url": "?wd=簸箕&cf=zuci&ptype=term",
-                "word": "簸箕"
-            },
-            {
-                "url": "?wd=簸荡&cf=zuci&ptype=term",
-                "word": "簸荡"
-            },
-            {
-                "url": "?wd=簸弄&cf=zuci&ptype=term",
-                "word": "簸弄"
-            },
-            {
-                "url": "?wd=簸箩&cf=zuci&ptype=term",
-                "word": "簸箩"
-            },
-            {
-                "url": "?wd=簸动&cf=zuci&ptype=term",
-                "word": "簸动"
-            },
-            {
-                "url": "?wd=掀簸&cf=zuci&ptype=term",
-                "word": "掀簸"
-            },
-            {
-                "url": "?wd=吹簸&cf=zuci&ptype=term",
-                "word": "吹簸"
-            },
-            {
-                "url": "?wd=飏簸&cf=zuci&ptype=term",
-                "word": "飏簸"
-            },
-            {
-                "url": "?wd=簸飏&cf=zuci&ptype=term",
-                "word": "簸飏"
-            },
-            {
-                "url": "?wd=舂簸&cf=zuci&ptype=term",
-                "word": "舂簸"
-            },
-            {
-                "url": "?wd=簸粃&cf=zuci&ptype=term",
-                "word": "簸粃"
-            },
-            {
-                "url": "?wd=簸运&cf=zuci&ptype=term",
-                "word": "簸运"
-            },
-            {
-                "url": "?wd=飘簸&cf=zuci&ptype=term",
-                "word": "飘簸"
-            }
-        ],
-        "word": "簸"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bc959e76fd3a845669890f26a96a228a3.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "jī",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ji1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=簸箕&cf=zuci&ptype=term",
-                "word": "簸箕"
-            },
-            {
-                "url": "?wd=畚箕&cf=zuci&ptype=term",
-                "word": "畚箕"
-            },
-            {
-                "url": "?wd=筲箕&cf=zuci&ptype=term",
-                "word": "筲箕"
-            },
-            {
-                "url": "?wd=箢箕&cf=zuci&ptype=term",
-                "word": "箢箕"
-            },
-            {
-                "url": "?wd=撮箕&cf=zuci&ptype=term",
-                "word": "撮箕"
-            },
-            {
-                "url": "?wd=箕踞&cf=zuci&ptype=term",
-                "word": "箕踞"
-            },
-            {
-                "url": "?wd=箕斗&cf=zuci&ptype=term",
-                "word": "箕斗"
-            },
-            {
-                "url": "?wd=箕瓢&cf=zuci&ptype=term",
-                "word": "箕瓢"
-            },
-            {
-                "url": "?wd=召箕&cf=zuci&ptype=term",
-                "word": "召箕"
-            },
-            {
-                "url": "?wd=扶箕&cf=zuci&ptype=term",
-                "word": "扶箕"
-            },
-            {
-                "url": "?wd=箕颍&cf=zuci&ptype=term",
-                "word": "箕颍"
-            },
-            {
-                "url": "?wd=伊箕&cf=zuci&ptype=term",
-                "word": "伊箕"
-            },
-            {
-                "url": "?wd=箕子&cf=zuci&ptype=term",
-                "word": "箕子"
-            },
-            {
-                "url": "?wd=箕扫&cf=zuci&ptype=term",
-                "word": "箕扫"
-            }
-        ],
-        "word": "箕"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bd8ecc9cbeb2f48b085acc591162e0248.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "qiáng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/qiang2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=蔷薇&cf=zuci&ptype=term",
-                "word": "蔷薇"
-            },
-            {
-                "url": "?wd=东蔷&cf=zuci&ptype=term",
-                "word": "东蔷"
-            },
-            {
-                "url": "?wd=黄蔷薇&cf=zuci&ptype=term",
-                "word": "黄蔷薇"
-            },
-            {
-                "url": "?wd=蔷薇剑&cf=zuci&ptype=term",
-                "word": "蔷薇剑"
-            },
-            {
-                "url": "?wd=蔷薇露&cf=zuci&ptype=term",
-                "word": "蔷薇露"
-            },
-            {
-                "url": "?wd=蔷薇汤&cf=zuci&ptype=term",
-                "word": "蔷薇汤"
-            },
-            {
-                "url": "?wd=野蔷薇&cf=zuci&ptype=term",
-                "word": "野蔷薇"
-            },
-            {
-                "url": "?wd=蔷薇水&cf=zuci&ptype=term",
-                "word": "蔷薇水"
-            },
-            {
-                "url": "?wd=密蔷薇&cf=zuci&ptype=term",
-                "word": "密蔷薇"
-            },
-            {
-                "url": "?wd=事在萧蔷&cf=zuci&ptype=term",
-                "word": "事在萧蔷"
-            },
-            {
-                "url": "?wd=虎嗅蔷薇&cf=zuci&ptype=term",
-                "word": "虎嗅蔷薇"
-            },
-            {
-                "url": "?wd=抱蕙兰芬，吐蔷薇刺&cf=zuci&ptype=term",
-                "word": "抱蕙兰芬，吐蔷薇刺"
-            },
-            {
-                "url": "#",
-                "word": null
-            }
-        ],
-        "word": "蔷"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b3be9c822d8a74e418b35c3ac2cd44979.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "pì",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/pi4.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=譬如&cf=zuci&ptype=term",
-                "word": "譬如"
-            },
-            {
-                "url": "?wd=譬方&cf=zuci&ptype=term",
-                "word": "譬方"
-            },
-            {
-                "url": "?wd=譬喻&cf=zuci&ptype=term",
-                "word": "譬喻"
-            },
-            {
-                "url": "?wd=譬犹&cf=zuci&ptype=term",
-                "word": "譬犹"
-            },
-            {
-                "url": "?wd=开譬&cf=zuci&ptype=term",
-                "word": "开譬"
-            },
-            {
-                "url": "?wd=宽譬&cf=zuci&ptype=term",
-                "word": "宽譬"
-            },
-            {
-                "url": "?wd=詶譬&cf=zuci&ptype=term",
-                "word": "詶譬"
-            },
-            {
-                "url": "?wd=晓譬&cf=zuci&ptype=term",
-                "word": "晓譬"
-            },
-            {
-                "url": "?wd=譬旨&cf=zuci&ptype=term",
-                "word": "譬旨"
-            },
-            {
-                "url": "?wd=假譬&cf=zuci&ptype=term",
-                "word": "假譬"
-            },
-            {
-                "url": "?wd=譬释&cf=zuci&ptype=term",
-                "word": "譬释"
-            },
-            {
-                "url": "?wd=譬之&cf=zuci&ptype=term",
-                "word": "譬之"
-            },
-            {
-                "url": "?wd=譬语&cf=zuci&ptype=term",
-                "word": "譬语"
-            },
-            {
-                "url": "?wd=比譬&cf=zuci&ptype=term",
-                "word": "比譬"
-            }
-        ],
-        "word": "譬"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b649a26b737b24c0db722761ab1df9c2c.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "cāo",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/cao1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=粗糙&cf=zuci&ptype=term",
-                "word": "粗糙"
-            },
-            {
-                "url": "?wd=毛糙&cf=zuci&ptype=term",
-                "word": "毛糙"
-            },
-            {
-                "url": "?wd=糙粮&cf=zuci&ptype=term",
-                "word": "糙粮"
-            },
-            {
-                "url": "?wd=糙米&cf=zuci&ptype=term",
-                "word": "糙米"
-            },
-            {
-                "url": "?wd=乾糙&cf=zuci&ptype=term",
-                "word": "乾糙"
-            },
-            {
-                "url": "?wd=干糙&cf=zuci&ptype=term",
-                "word": "干糙"
-            },
-            {
-                "url": "?wd=糙率&cf=zuci&ptype=term",
-                "word": "糙率"
-            },
-            {
-                "url": "?wd=麤糙&cf=zuci&ptype=term",
-                "word": "麤糙"
-            },
-            {
-                "url": "?wd=糙汉&cf=zuci&ptype=term",
-                "word": "糙汉"
-            },
-            {
-                "url": "?wd=糙糠&cf=zuci&ptype=term",
-                "word": "糙糠"
-            },
-            {
-                "url": "?wd=糙漆&cf=zuci&ptype=term",
-                "word": "糙漆"
-            },
-            {
-                "url": "?wd=糙面带&cf=zuci&ptype=term",
-                "word": "糙面带"
-            },
-            {
-                "url": "?wd=粗糙度&cf=zuci&ptype=term",
-                "word": "粗糙度"
-            },
-            {
-                "url": "?wd=糙零呆&cf=zuci&ptype=term",
-                "word": "糙零呆"
-            }
-        ],
-        "word": "糙"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b0d7f02d37b7f41258013eaec7c5228b4.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "zhēng",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=睁眼&cf=zuci&ptype=term",
-                "word": "睁眼"
-            },
-            {
-                "url": "?wd=睖睁&cf=zuci&ptype=term",
-                "word": "睖睁"
-            },
-            {
-                "url": "?wd=青睁&cf=zuci&ptype=term",
-                "word": "青睁"
-            },
-            {
-                "url": "?wd=睁察&cf=zuci&ptype=term",
-                "word": "睁察"
-            },
-            {
-                "url": "?wd=楞睁&cf=zuci&ptype=term",
-                "word": "楞睁"
-            },
-            {
-                "url": "?wd=睁睁&cf=zuci&ptype=term",
-                "word": "睁睁"
-            },
-            {
-                "url": "?wd=眼睁&cf=zuci&ptype=term",
-                "word": "眼睁"
-            },
-            {
-                "url": "?wd=睁叉&cf=zuci&ptype=term",
-                "word": "睁叉"
-            },
-            {
-                "url": "?wd=睁眼瞎&cf=zuci&ptype=term",
-                "word": "睁眼瞎"
-            },
-            {
-                "url": "?wd=眼睁睁&cf=zuci&ptype=term",
-                "word": "眼睁睁"
-            },
-            {
-                "url": "?wd=棱睁神&cf=zuci&ptype=term",
-                "word": "棱睁神"
-            },
-            {
-                "url": "?wd=矻睁睁&cf=zuci&ptype=term",
-                "word": "矻睁睁"
-            },
-            {
-                "url": "?wd=睁眼瞎子&cf=zuci&ptype=term",
-                "word": "睁眼瞎子"
-            },
-            {
-                "url": "?wd=睁眼苫眉&cf=zuci&ptype=term",
-                "word": "睁眼苫眉"
-            }
-        ],
-        "word": "睁"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bafb2f7fc4a0a41f2993ce225ae986031.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "zhì",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zhi4.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=秩序&cf=zuci&ptype=term",
-                "word": "秩序"
-            },
-            {
-                "url": "?wd=改秩&cf=zuci&ptype=term",
-                "word": "改秩"
-            },
-            {
-                "url": "?wd=优秩&cf=zuci&ptype=term",
-                "word": "优秩"
-            },
-            {
-                "url": "?wd=秩稍&cf=zuci&ptype=term",
-                "word": "秩稍"
-            },
-            {
-                "url": "?wd=要秩&cf=zuci&ptype=term",
-                "word": "要秩"
-            },
-            {
-                "url": "?wd=本秩&cf=zuci&ptype=term",
-                "word": "本秩"
-            },
-            {
-                "url": "?wd=第秩&cf=zuci&ptype=term",
-                "word": "第秩"
-            },
-            {
-                "url": "?wd=秩禄&cf=zuci&ptype=term",
-                "word": "秩禄"
-            },
-            {
-                "url": "?wd=班秩&cf=zuci&ptype=term",
-                "word": "班秩"
-            },
-            {
-                "url": "?wd=华秩&cf=zuci&ptype=term",
-                "word": "华秩"
-            },
-            {
-                "url": "?wd=秩位&cf=zuci&ptype=term",
-                "word": "秩位"
-            },
-            {
-                "url": "?wd=仙秩&cf=zuci&ptype=term",
-                "word": "仙秩"
-            },
-            {
-                "url": "?wd=迁秩&cf=zuci&ptype=term",
-                "word": "迁秩"
-            },
-            {
-                "url": "?wd=天秩&cf=zuci&ptype=term",
-                "word": "天秩"
-            }
-        ],
-        "word": "秩"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b053e2fa41a23403e8d25d517e4e33f46.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "jiān",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jian1.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=艰苦&cf=zuci&ptype=term",
-                "word": "艰苦"
-            },
-            {
-                "url": "?wd=艰深&cf=zuci&ptype=term",
-                "word": "艰深"
-            },
-            {
-                "url": "?wd=艰巨&cf=zuci&ptype=term",
-                "word": "艰巨"
-            },
-            {
-                "url": "?wd=艰难&cf=zuci&ptype=term",
-                "word": "艰难"
-            },
-            {
-                "url": "?wd=艰涩&cf=zuci&ptype=term",
-                "word": "艰涩"
-            },
-            {
-                "url": "?wd=丁艰&cf=zuci&ptype=term",
-                "word": "丁艰"
-            },
-            {
-                "url": "?wd=艰辛&cf=zuci&ptype=term",
-                "word": "艰辛"
-            },
-            {
-                "url": "?wd=内艰&cf=zuci&ptype=term",
-                "word": "内艰"
-            },
-            {
-                "url": "?wd=外艰&cf=zuci&ptype=term",
-                "word": "外艰"
-            },
-            {
-                "url": "?wd=艰阨&cf=zuci&ptype=term",
-                "word": "艰阨"
-            },
-            {
-                "url": "?wd=艰食&cf=zuci&ptype=term",
-                "word": "艰食"
-            },
-            {
-                "url": "?wd=艰梗&cf=zuci&ptype=term",
-                "word": "艰梗"
-            },
-            {
-                "url": "?wd=艰虞&cf=zuci&ptype=term",
-                "word": "艰虞"
-            },
-            {
-                "url": "?wd=艰患&cf=zuci&ptype=term",
-                "word": "艰患"
-            }
-        ],
-        "word": "艰"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49fcd475427711e5ae6dc8e0eb15ce01.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "liè",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lie4.mp3"
-            },
-            {
-                "pinyin": "liě",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lie3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=崩裂&cf=zuci&ptype=term",
-                "word": "崩裂"
-            },
-            {
-                "url": "?wd=分裂&cf=zuci&ptype=term",
-                "word": "分裂"
-            },
-            {
-                "url": "?wd=迸裂&cf=zuci&ptype=term",
-                "word": "迸裂"
-            },
-            {
-                "url": "?wd=裂缝&cf=zuci&ptype=term",
-                "word": "裂缝"
-            },
-            {
-                "url": "?wd=裂开&cf=zuci&ptype=term",
-                "word": "裂开"
-            },
-            {
-                "url": "?wd=破裂&cf=zuci&ptype=term",
-                "word": "破裂"
-            },
-            {
-                "url": "?wd=绽裂&cf=zuci&ptype=term",
-                "word": "绽裂"
-            },
-            {
-                "url": "?wd=龟裂&cf=zuci&ptype=term",
-                "word": "龟裂"
-            },
-            {
-                "url": "?wd=皴裂&cf=zuci&ptype=term",
-                "word": "皴裂"
-            },
-            {
-                "url": "?wd=车裂&cf=zuci&ptype=term",
-                "word": "车裂"
-            },
-            {
-                "url": "?wd=裂变&cf=zuci&ptype=term",
-                "word": "裂变"
-            },
-            {
-                "url": "?wd=开裂&cf=zuci&ptype=term",
-                "word": "开裂"
-            },
-            {
-                "url": "?wd=干裂&cf=zuci&ptype=term",
-                "word": "干裂"
-            },
-            {
-                "url": "?wd=爆裂&cf=zuci&ptype=term",
-                "word": "爆裂"
-            }
-        ],
-        "word": "裂"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b28d299fc7063474d89fe600fec0db78a.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "jià",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jia4.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=庄稼&cf=zuci&ptype=term",
-                "word": "庄稼"
-            },
-            {
-                "url": "?wd=稼穑&cf=zuci&ptype=term",
-                "word": "稼穑"
-            },
-            {
-                "url": "?wd=云稼&cf=zuci&ptype=term",
-                "word": "云稼"
-            },
-            {
-                "url": "?wd=美稼&cf=zuci&ptype=term",
-                "word": "美稼"
-            },
-            {
-                "url": "?wd=谈稼&cf=zuci&ptype=term",
-                "word": "谈稼"
-            },
-            {
-                "url": "?wd=苗稼&cf=zuci&ptype=term",
-                "word": "苗稼"
-            },
-            {
-                "url": "?wd=阅稼&cf=zuci&ptype=term",
-                "word": "阅稼"
-            },
-            {
-                "url": "?wd=沈稼&cf=zuci&ptype=term",
-                "word": "沈稼"
-            },
-            {
-                "url": "?wd=学稼&cf=zuci&ptype=term",
-                "word": "学稼"
-            },
-            {
-                "url": "?wd=生稼&cf=zuci&ptype=term",
-                "word": "生稼"
-            },
-            {
-                "url": "?wd=桑稼&cf=zuci&ptype=term",
-                "word": "桑稼"
-            },
-            {
-                "url": "?wd=冰稼&cf=zuci&ptype=term",
-                "word": "冰稼"
-            },
-            {
-                "url": "?wd=稻稼&cf=zuci&ptype=term",
-                "word": "稻稼"
-            },
-            {
-                "url": "?wd=稼事&cf=zuci&ptype=term",
-                "word": "稼事"
-            }
-        ],
-        "word": "稼"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b8b560c4d8281472e9b2d22c54a8fe315.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "kuǎ",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/kua3.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=打垮&cf=zuci&ptype=term",
-                "word": "打垮"
-            },
-            {
-                "url": "?wd=垮台&cf=zuci&ptype=term",
-                "word": "垮台"
-            },
-            {
-                "url": "?wd=击垮&cf=zuci&ptype=term",
-                "word": "击垮"
-            },
-            {
-                "url": "?wd=垮塌&cf=zuci&ptype=term",
-                "word": "垮塌"
-            },
-            {
-                "url": "?wd=垮杆&cf=zuci&ptype=term",
-                "word": "垮杆"
-            },
-            {
-                "url": "?wd=搞垮&cf=zuci&ptype=term",
-                "word": "搞垮"
-            },
-            {
-                "url": "?wd=冲垮&cf=zuci&ptype=term",
-                "word": "冲垮"
-            },
-            {
-                "url": "?wd=松垮&cf=zuci&ptype=term",
-                "word": "松垮"
-            },
-            {
-                "url": "?wd=拖垮&cf=zuci&ptype=term",
-                "word": "拖垮"
-            },
-            {
-                "url": "?wd=松垮垮&cf=zuci&ptype=term",
-                "word": "松垮垮"
-            },
-            {
-                "url": "?wd=吹垮垮&cf=zuci&ptype=term",
-                "word": "吹垮垮"
-            },
-            {
-                "url": "?wd=松松垮垮&cf=zuci&ptype=term",
-                "word": "松松垮垮"
-            },
-            {
-                "url": "#",
-                "word": null
-            }
-        ],
-        "word": "垮"
-    },
-    {
-        "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bde5e18c176ff465c9ff8deec552cfaed.gif",
-        "pinyinlist": [
-            {
-                "pinyin": "fén",
-                "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/fen2.mp3"
-            }
-        ],
-        "zuci": [
-            {
-                "url": "?wd=坟茔&cf=zuci&ptype=term",
-                "word": "坟茔"
-            },
-            {
-                "url": "?wd=坟地&cf=zuci&ptype=term",
-                "word": "坟地"
-            },
-            {
-                "url": "?wd=坟山&cf=zuci&ptype=term",
-                "word": "坟山"
-            },
-            {
-                "url": "?wd=坟墓&cf=zuci&ptype=term",
-                "word": "坟墓"
-            },
-            {
-                "url": "?wd=祖坟&cf=zuci&ptype=term",
-                "word": "祖坟"
-            },
-            {
-                "url": "?wd=坟头&cf=zuci&ptype=term",
-                "word": "坟头"
-            },
-            {
-                "url": "?wd=上坟&cf=zuci&ptype=term",
-                "word": "上坟"
-            },
-            {
-                "url": "?wd=陵坟&cf=zuci&ptype=term",
-                "word": "陵坟"
-            },
-            {
-                "url": "?wd=坟策&cf=zuci&ptype=term",
-                "word": "坟策"
-            },
-            {
-                "url": "?wd=坟史&cf=zuci&ptype=term",
-                "word": "坟史"
-            },
-            {
-                "url": "?wd=修坟&cf=zuci&ptype=term",
-                "word": "修坟"
-            },
-            {
-                "url": "?wd=生坟&cf=zuci&ptype=term",
-                "word": "生坟"
-            },
-            {
-                "url": "?wd=岳坟&cf=zuci&ptype=term",
-                "word": "岳坟"
-            },
-            {
-                "url": "?wd=坟院&cf=zuci&ptype=term",
-                "word": "坟院"
-            }
-        ],
-        "word": "坟"
-    }
-]
+{
+    "title": "二年级下2",
+    "words": [
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/becbbe8d9ea784e948b60e6efb870f06e.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "shà",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/sha4.mp3"
+                },
+                {
+                    "pinyin": "xià",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/xia4.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=大厦&cf=zuci&ptype=term",
+                    "word": "大厦"
+                },
+                {
+                    "url": "?wd=抱厦&cf=zuci&ptype=term",
+                    "word": "抱厦"
+                },
+                {
+                    "url": "?wd=后厦&cf=zuci&ptype=term",
+                    "word": "后厦"
+                },
+                {
+                    "url": "?wd=噶厦&cf=zuci&ptype=term",
+                    "word": "噶厦"
+                },
+                {
+                    "url": "?wd=偏厦&cf=zuci&ptype=term",
+                    "word": "偏厦"
+                },
+                {
+                    "url": "?wd=商厦&cf=zuci&ptype=term",
+                    "word": "商厦"
+                },
+                {
+                    "url": "?wd=曝厦&cf=zuci&ptype=term",
+                    "word": "曝厦"
+                },
+                {
+                    "url": "?wd=厦覆&cf=zuci&ptype=term",
+                    "word": "厦覆"
+                },
+                {
+                    "url": "?wd=厦房&cf=zuci&ptype=term",
+                    "word": "厦房"
+                },
+                {
+                    "url": "?wd=贺厦&cf=zuci&ptype=term",
+                    "word": "贺厦"
+                },
+                {
+                    "url": "?wd=旃厦&cf=zuci&ptype=term",
+                    "word": "旃厦"
+                },
+                {
+                    "url": "?wd=厦屋&cf=zuci&ptype=term",
+                    "word": "厦屋"
+                },
+                {
+                    "url": "?wd=厦门&cf=zuci&ptype=term",
+                    "word": "厦门"
+                },
+                {
+                    "url": "?wd=穾厦&cf=zuci&ptype=term",
+                    "word": "穾厦"
+                }
+            ],
+            "word": "厦"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b693bacc113ab4425ba22678275a3f779.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "yáo",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/yao2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=窑坑&cf=zuci&ptype=term",
+                    "word": "窑坑"
+                },
+                {
+                    "url": "?wd=煤窑&cf=zuci&ptype=term",
+                    "word": "煤窑"
+                },
+                {
+                    "url": "?wd=窑洞&cf=zuci&ptype=term",
+                    "word": "窑洞"
+                },
+                {
+                    "url": "?wd=瓷窑&cf=zuci&ptype=term",
+                    "word": "瓷窑"
+                },
+                {
+                    "url": "?wd=烧窑&cf=zuci&ptype=term",
+                    "word": "烧窑"
+                },
+                {
+                    "url": "?wd=瓯窑&cf=zuci&ptype=term",
+                    "word": "瓯窑"
+                },
+                {
+                    "url": "?wd=窑课&cf=zuci&ptype=term",
+                    "word": "窑课"
+                },
+                {
+                    "url": "?wd=官窑&cf=zuci&ptype=term",
+                    "word": "官窑"
+                },
+                {
+                    "url": "?wd=窑作&cf=zuci&ptype=term",
+                    "word": "窑作"
+                },
+                {
+                    "url": "?wd=窑葬&cf=zuci&ptype=term",
+                    "word": "窑葬"
+                },
+                {
+                    "url": "?wd=窑调&cf=zuci&ptype=term",
+                    "word": "窑调"
+                },
+                {
+                    "url": "?wd=隆窑&cf=zuci&ptype=term",
+                    "word": "隆窑"
+                },
+                {
+                    "url": "?wd=窑门&cf=zuci&ptype=term",
+                    "word": "窑门"
+                },
+                {
+                    "url": "?wd=装窑&cf=zuci&ptype=term",
+                    "word": "装窑"
+                }
+            ],
+            "word": "窑"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b32c3c79469564471a94ac4eff0839ee7.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "lǐng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ling3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=山岭&cf=zuci&ptype=term",
+                    "word": "山岭"
+                },
+                {
+                    "url": "?wd=岭南&cf=zuci&ptype=term",
+                    "word": "岭南"
+                },
+                {
+                    "url": "?wd=秦岭&cf=zuci&ptype=term",
+                    "word": "秦岭"
+                },
+                {
+                    "url": "?wd=海岭&cf=zuci&ptype=term",
+                    "word": "海岭"
+                },
+                {
+                    "url": "?wd=五岭&cf=zuci&ptype=term",
+                    "word": "五岭"
+                },
+                {
+                    "url": "?wd=匡岭&cf=zuci&ptype=term",
+                    "word": "匡岭"
+                },
+                {
+                    "url": "?wd=南岭&cf=zuci&ptype=term",
+                    "word": "南岭"
+                },
+                {
+                    "url": "?wd=霞岭&cf=zuci&ptype=term",
+                    "word": "霞岭"
+                },
+                {
+                    "url": "?wd=岭越&cf=zuci&ptype=term",
+                    "word": "岭越"
+                },
+                {
+                    "url": "?wd=岭左&cf=zuci&ptype=term",
+                    "word": "岭左"
+                },
+                {
+                    "url": "?wd=缑岭&cf=zuci&ptype=term",
+                    "word": "缑岭"
+                },
+                {
+                    "url": "?wd=嵰岭&cf=zuci&ptype=term",
+                    "word": "嵰岭"
+                },
+                {
+                    "url": "?wd=沙岭&cf=zuci&ptype=term",
+                    "word": "沙岭"
+                },
+                {
+                    "url": "?wd=曾岭&cf=zuci&ptype=term",
+                    "word": "曾岭"
+                }
+            ],
+            "word": "岭"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b840aaf76491d47c8b0ee573804d29186.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "chuí",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/chui2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=垂柳&cf=zuci&ptype=term",
+                    "word": "垂柳"
+                },
+                {
+                    "url": "?wd=垂危&cf=zuci&ptype=term",
+                    "word": "垂危"
+                },
+                {
+                    "url": "?wd=垂直&cf=zuci&ptype=term",
+                    "word": "垂直"
+                },
+                {
+                    "url": "?wd=垂头&cf=zuci&ptype=term",
+                    "word": "垂头"
+                },
+                {
+                    "url": "?wd=垂涎&cf=zuci&ptype=term",
+                    "word": "垂涎"
+                },
+                {
+                    "url": "?wd=垂髫&cf=zuci&ptype=term",
+                    "word": "垂髫"
+                },
+                {
+                    "url": "?wd=垂范&cf=zuci&ptype=term",
+                    "word": "垂范"
+                },
+                {
+                    "url": "?wd=垂老&cf=zuci&ptype=term",
+                    "word": "垂老"
+                },
+                {
+                    "url": "?wd=垂问&cf=zuci&ptype=term",
+                    "word": "垂问"
+                },
+                {
+                    "url": "?wd=垂怜&cf=zuci&ptype=term",
+                    "word": "垂怜"
+                },
+                {
+                    "url": "?wd=垂泪&cf=zuci&ptype=term",
+                    "word": "垂泪"
+                },
+                {
+                    "url": "?wd=垂手&cf=zuci&ptype=term",
+                    "word": "垂手"
+                },
+                {
+                    "url": "?wd=垂青&cf=zuci&ptype=term",
+                    "word": "垂青"
+                },
+                {
+                    "url": "?wd=垂垂&cf=zuci&ptype=term",
+                    "word": "垂垂"
+                }
+            ],
+            "word": "垂"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b80d3374e0cb74c4eb49c887497350044.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "chóu",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/chou2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=稠密&cf=zuci&ptype=term",
+                    "word": "稠密"
+                },
+                {
+                    "url": "?wd=黏稠&cf=zuci&ptype=term",
+                    "word": "黏稠"
+                },
+                {
+                    "url": "?wd=稠糊&cf=zuci&ptype=term",
+                    "word": "稠糊"
+                },
+                {
+                    "url": "?wd=星稠&cf=zuci&ptype=term",
+                    "word": "星稠"
+                },
+                {
+                    "url": "?wd=稠庶&cf=zuci&ptype=term",
+                    "word": "稠庶"
+                },
+                {
+                    "url": "?wd=稠穰&cf=zuci&ptype=term",
+                    "word": "稠穰"
+                },
+                {
+                    "url": "?wd=密稠&cf=zuci&ptype=term",
+                    "word": "密稠"
+                },
+                {
+                    "url": "?wd=稀稠&cf=zuci&ptype=term",
+                    "word": "稀稠"
+                },
+                {
+                    "url": "?wd=稠适&cf=zuci&ptype=term",
+                    "word": "稠适"
+                },
+                {
+                    "url": "?wd=稠伙&cf=zuci&ptype=term",
+                    "word": "稠伙"
+                },
+                {
+                    "url": "?wd=稠沓&cf=zuci&ptype=term",
+                    "word": "稠沓"
+                },
+                {
+                    "url": "?wd=稠稠&cf=zuci&ptype=term",
+                    "word": "稠稠"
+                },
+                {
+                    "url": "?wd=稠黏&cf=zuci&ptype=term",
+                    "word": "稠黏"
+                },
+                {
+                    "url": "?wd=稠涎&cf=zuci&ptype=term",
+                    "word": "稠涎"
+                }
+            ],
+            "word": "稠"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b83d536c8673642f3bd09e5376b5cf540.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "qú",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/qu2.mp3"
+                },
+                {
+                    "pinyin": "jù",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ju4.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=沟渠&cf=zuci&ptype=term",
+                    "word": "沟渠"
+                },
+                {
+                    "url": "?wd=渠道&cf=zuci&ptype=term",
+                    "word": "渠道"
+                },
+                {
+                    "url": "?wd=毛渠&cf=zuci&ptype=term",
+                    "word": "毛渠"
+                },
+                {
+                    "url": "?wd=水渠&cf=zuci&ptype=term",
+                    "word": "水渠"
+                },
+                {
+                    "url": "?wd=明渠&cf=zuci&ptype=term",
+                    "word": "明渠"
+                },
+                {
+                    "url": "?wd=斗渠&cf=zuci&ptype=term",
+                    "word": "斗渠"
+                },
+                {
+                    "url": "?wd=河渠&cf=zuci&ptype=term",
+                    "word": "河渠"
+                },
+                {
+                    "url": "?wd=支渠&cf=zuci&ptype=term",
+                    "word": "支渠"
+                },
+                {
+                    "url": "?wd=轩渠&cf=zuci&ptype=term",
+                    "word": "轩渠"
+                },
+                {
+                    "url": "?wd=雝渠&cf=zuci&ptype=term",
+                    "word": "雝渠"
+                },
+                {
+                    "url": "?wd=渠堑&cf=zuci&ptype=term",
+                    "word": "渠堑"
+                },
+                {
+                    "url": "?wd=洪渠&cf=zuci&ptype=term",
+                    "word": "洪渠"
+                },
+                {
+                    "url": "?wd=贯渠&cf=zuci&ptype=term",
+                    "word": "贯渠"
+                },
+                {
+                    "url": "?wd=浚渠&cf=zuci&ptype=term",
+                    "word": "浚渠"
+                }
+            ],
+            "word": "渠"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bf1407b0a276d43ffac66e571a58b88ce.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "lǎn",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lan3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=阅览&cf=zuci&ptype=term",
+                    "word": "阅览"
+                },
+                {
+                    "url": "?wd=博览&cf=zuci&ptype=term",
+                    "word": "博览"
+                },
+                {
+                    "url": "?wd=展览&cf=zuci&ptype=term",
+                    "word": "展览"
+                },
+                {
+                    "url": "?wd=浏览&cf=zuci&ptype=term",
+                    "word": "浏览"
+                },
+                {
+                    "url": "?wd=饱览&cf=zuci&ptype=term",
+                    "word": "饱览"
+                },
+                {
+                    "url": "?wd=游览&cf=zuci&ptype=term",
+                    "word": "游览"
+                },
+                {
+                    "url": "?wd=俯览&cf=zuci&ptype=term",
+                    "word": "俯览"
+                },
+                {
+                    "url": "?wd=要览&cf=zuci&ptype=term",
+                    "word": "要览"
+                },
+                {
+                    "url": "?wd=观览&cf=zuci&ptype=term",
+                    "word": "观览"
+                },
+                {
+                    "url": "?wd=一览&cf=zuci&ptype=term",
+                    "word": "一览"
+                },
+                {
+                    "url": "?wd=纵览&cf=zuci&ptype=term",
+                    "word": "纵览"
+                },
+                {
+                    "url": "?wd=披览&cf=zuci&ptype=term",
+                    "word": "披览"
+                },
+                {
+                    "url": "?wd=览胜&cf=zuci&ptype=term",
+                    "word": "览胜"
+                },
+                {
+                    "url": "?wd=便览&cf=zuci&ptype=term",
+                    "word": "便览"
+                }
+            ],
+            "word": "览"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b1563dce9860f47e6b50c0b73e332c6e9.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "dā",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/da1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=耷拉&cf=zuci&ptype=term",
+                    "word": "耷拉"
+                },
+                {
+                    "url": "?wd=挂耷&cf=zuci&ptype=term",
+                    "word": "挂耷"
+                },
+                {
+                    "url": "?wd=朱耷&cf=zuci&ptype=term",
+                    "word": "朱耷"
+                },
+                {
+                    "url": "?wd=蔫头耷脑&cf=zuci&ptype=term",
+                    "word": "蔫头耷脑"
+                },
+                {
+                    "url": "?wd=滴里耷拉&cf=zuci&ptype=term",
+                    "word": "滴里耷拉"
+                },
+                {
+                    "url": "?wd=臊眉耷眼&cf=zuci&ptype=term",
+                    "word": "臊眉耷眼"
+                },
+                {
+                    "url": "?wd=低头耷脑&cf=zuci&ptype=term",
+                    "word": "低头耷脑"
+                },
+                {
+                    "url": "#",
+                    "word": null
+                }
+            ],
+            "word": "耷"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/be52f8ee80d7842509b9782a861a882e5.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "cōng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/cong1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=匆匆&cf=zuci&ptype=term",
+                    "word": "匆匆"
+                },
+                {
+                    "url": "?wd=匆忙&cf=zuci&ptype=term",
+                    "word": "匆忙"
+                },
+                {
+                    "url": "?wd=匆促&cf=zuci&ptype=term",
+                    "word": "匆促"
+                },
+                {
+                    "url": "?wd=匆猝&cf=zuci&ptype=term",
+                    "word": "匆猝"
+                },
+                {
+                    "url": "?wd=匆遽&cf=zuci&ptype=term",
+                    "word": "匆遽"
+                },
+                {
+                    "url": "?wd=匆剧&cf=zuci&ptype=term",
+                    "word": "匆剧"
+                },
+                {
+                    "url": "?wd=匆卒&cf=zuci&ptype=term",
+                    "word": "匆卒"
+                },
+                {
+                    "url": "?wd=急匆匆&cf=zuci&ptype=term",
+                    "word": "急匆匆"
+                },
+                {
+                    "url": "?wd=兴匆匆&cf=zuci&ptype=term",
+                    "word": "兴匆匆"
+                },
+                {
+                    "url": "?wd=行色匆匆&cf=zuci&ptype=term",
+                    "word": "行色匆匆"
+                },
+                {
+                    "url": "?wd=匆匆忙忙&cf=zuci&ptype=term",
+                    "word": "匆匆忙忙"
+                },
+                {
+                    "url": "?wd=形色匆忙&cf=zuci&ptype=term",
+                    "word": "形色匆忙"
+                },
+                {
+                    "url": "?wd=匆匆一别&cf=zuci&ptype=term",
+                    "word": "匆匆一别"
+                },
+                {
+                    "url": "?wd=步履匆匆&cf=zuci&ptype=term",
+                    "word": "步履匆匆"
+                }
+            ],
+            "word": "匆"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b72a3972f2a0e4543af5e9ab5d4a5bc5e.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "pái",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/pai2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=招牌&cf=zuci&ptype=term",
+                    "word": "招牌"
+                },
+                {
+                    "url": "?wd=门牌&cf=zuci&ptype=term",
+                    "word": "门牌"
+                },
+                {
+                    "url": "?wd=词牌&cf=zuci&ptype=term",
+                    "word": "词牌"
+                },
+                {
+                    "url": "?wd=牌匾&cf=zuci&ptype=term",
+                    "word": "牌匾"
+                },
+                {
+                    "url": "?wd=斗牌&cf=zuci&ptype=term",
+                    "word": "斗牌"
+                },
+                {
+                    "url": "?wd=牌九&cf=zuci&ptype=term",
+                    "word": "牌九"
+                },
+                {
+                    "url": "?wd=牙牌&cf=zuci&ptype=term",
+                    "word": "牙牌"
+                },
+                {
+                    "url": "?wd=曲牌&cf=zuci&ptype=term",
+                    "word": "曲牌"
+                },
+                {
+                    "url": "?wd=桥牌&cf=zuci&ptype=term",
+                    "word": "桥牌"
+                },
+                {
+                    "url": "?wd=杂牌&cf=zuci&ptype=term",
+                    "word": "杂牌"
+                },
+                {
+                    "url": "?wd=正牌&cf=zuci&ptype=term",
+                    "word": "正牌"
+                },
+                {
+                    "url": "?wd=骨牌&cf=zuci&ptype=term",
+                    "word": "骨牌"
+                },
+                {
+                    "url": "?wd=牌照&cf=zuci&ptype=term",
+                    "word": "牌照"
+                },
+                {
+                    "url": "?wd=摊牌&cf=zuci&ptype=term",
+                    "word": "摊牌"
+                }
+            ],
+            "word": "牌"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bc5c20dd631d646f9b246bc32bb079839.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "yīn",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/yin1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=连茵&cf=zuci&ptype=term",
+                    "word": "连茵"
+                },
+                {
+                    "url": "?wd=累茵&cf=zuci&ptype=term",
+                    "word": "累茵"
+                },
+                {
+                    "url": "?wd=茵伏&cf=zuci&ptype=term",
+                    "word": "茵伏"
+                },
+                {
+                    "url": "?wd=茵陈&cf=zuci&ptype=term",
+                    "word": "茵陈"
+                },
+                {
+                    "url": "?wd=重茵&cf=zuci&ptype=term",
+                    "word": "重茵"
+                },
+                {
+                    "url": "?wd=如茵&cf=zuci&ptype=term",
+                    "word": "如茵"
+                },
+                {
+                    "url": "?wd=苔茵&cf=zuci&ptype=term",
+                    "word": "苔茵"
+                },
+                {
+                    "url": "?wd=乘茵&cf=zuci&ptype=term",
+                    "word": "乘茵"
+                },
+                {
+                    "url": "?wd=绿茵&cf=zuci&ptype=term",
+                    "word": "绿茵"
+                },
+                {
+                    "url": "?wd=茵轼&cf=zuci&ptype=term",
+                    "word": "茵轼"
+                },
+                {
+                    "url": "?wd=牀茵&cf=zuci&ptype=term",
+                    "word": "牀茵"
+                },
+                {
+                    "url": "?wd=罗茵&cf=zuci&ptype=term",
+                    "word": "罗茵"
+                },
+                {
+                    "url": "?wd=软茵&cf=zuci&ptype=term",
+                    "word": "软茵"
+                },
+                {
+                    "url": "?wd=茵幕&cf=zuci&ptype=term",
+                    "word": "茵幕"
+                }
+            ],
+            "word": "茵"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b029a5934c839464da2e423c22f166e94.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "lián",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lian2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=可怜&cf=zuci&ptype=term",
+                    "word": "可怜"
+                },
+                {
+                    "url": "?wd=怜悯&cf=zuci&ptype=term",
+                    "word": "怜悯"
+                },
+                {
+                    "url": "?wd=怜爱&cf=zuci&ptype=term",
+                    "word": "怜爱"
+                },
+                {
+                    "url": "?wd=乞怜&cf=zuci&ptype=term",
+                    "word": "乞怜"
+                },
+                {
+                    "url": "?wd=垂怜&cf=zuci&ptype=term",
+                    "word": "垂怜"
+                },
+                {
+                    "url": "?wd=顾怜&cf=zuci&ptype=term",
+                    "word": "顾怜"
+                },
+                {
+                    "url": "?wd=爱怜&cf=zuci&ptype=term",
+                    "word": "爱怜"
+                },
+                {
+                    "url": "?wd=怜惜&cf=zuci&ptype=term",
+                    "word": "怜惜"
+                },
+                {
+                    "url": "?wd=怜恤&cf=zuci&ptype=term",
+                    "word": "怜恤"
+                },
+                {
+                    "url": "?wd=哀怜&cf=zuci&ptype=term",
+                    "word": "哀怜"
+                },
+                {
+                    "url": "?wd=怜拯&cf=zuci&ptype=term",
+                    "word": "怜拯"
+                },
+                {
+                    "url": "?wd=逞怜&cf=zuci&ptype=term",
+                    "word": "逞怜"
+                },
+                {
+                    "url": "?wd=矜怜&cf=zuci&ptype=term",
+                    "word": "矜怜"
+                },
+                {
+                    "url": "?wd=怜鉴&cf=zuci&ptype=term",
+                    "word": "怜鉴"
+                }
+            ],
+            "word": "怜"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b58dd0a16bd3a42838227e0083a4644cd.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "nuó",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/nuo2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=挪移&cf=zuci&ptype=term",
+                    "word": "挪移"
+                },
+                {
+                    "url": "?wd=挪动&cf=zuci&ptype=term",
+                    "word": "挪动"
+                },
+                {
+                    "url": "?wd=腾挪&cf=zuci&ptype=term",
+                    "word": "腾挪"
+                },
+                {
+                    "url": "?wd=挪借&cf=zuci&ptype=term",
+                    "word": "挪借"
+                },
+                {
+                    "url": "?wd=挪用&cf=zuci&ptype=term",
+                    "word": "挪用"
+                },
+                {
+                    "url": "?wd=搓挪&cf=zuci&ptype=term",
+                    "word": "搓挪"
+                },
+                {
+                    "url": "?wd=支挪&cf=zuci&ptype=term",
+                    "word": "支挪"
+                },
+                {
+                    "url": "?wd=迁挪&cf=zuci&ptype=term",
+                    "word": "迁挪"
+                },
+                {
+                    "url": "?wd=挪步&cf=zuci&ptype=term",
+                    "word": "挪步"
+                },
+                {
+                    "url": "?wd=挪蹭&cf=zuci&ptype=term",
+                    "word": "挪蹭"
+                },
+                {
+                    "url": "?wd=揉挪&cf=zuci&ptype=term",
+                    "word": "揉挪"
+                },
+                {
+                    "url": "?wd=移挪&cf=zuci&ptype=term",
+                    "word": "移挪"
+                },
+                {
+                    "url": "?wd=侵挪&cf=zuci&ptype=term",
+                    "word": "侵挪"
+                },
+                {
+                    "url": "?wd=通挪&cf=zuci&ptype=term",
+                    "word": "通挪"
+                }
+            ],
+            "word": "挪"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b1857233aabd6496fa2f1bf81dc693981.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "jié",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jie2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=竭尽&cf=zuci&ptype=term",
+                    "word": "竭尽"
+                },
+                {
+                    "url": "?wd=竭诚&cf=zuci&ptype=term",
+                    "word": "竭诚"
+                },
+                {
+                    "url": "?wd=竭力&cf=zuci&ptype=term",
+                    "word": "竭力"
+                },
+                {
+                    "url": "?wd=枯竭&cf=zuci&ptype=term",
+                    "word": "枯竭"
+                },
+                {
+                    "url": "?wd=告竭&cf=zuci&ptype=term",
+                    "word": "告竭"
+                },
+                {
+                    "url": "?wd=衰竭&cf=zuci&ptype=term",
+                    "word": "衰竭"
+                },
+                {
+                    "url": "?wd=穷竭&cf=zuci&ptype=term",
+                    "word": "穷竭"
+                },
+                {
+                    "url": "?wd=匮竭&cf=zuci&ptype=term",
+                    "word": "匮竭"
+                },
+                {
+                    "url": "?wd=耗竭&cf=zuci&ptype=term",
+                    "word": "耗竭"
+                },
+                {
+                    "url": "?wd=竭蹶&cf=zuci&ptype=term",
+                    "word": "竭蹶"
+                },
+                {
+                    "url": "?wd=竭愚&cf=zuci&ptype=term",
+                    "word": "竭愚"
+                },
+                {
+                    "url": "?wd=竭节&cf=zuci&ptype=term",
+                    "word": "竭节"
+                },
+                {
+                    "url": "?wd=输竭&cf=zuci&ptype=term",
+                    "word": "输竭"
+                },
+                {
+                    "url": "?wd=竭精&cf=zuci&ptype=term",
+                    "word": "竭精"
+                }
+            ],
+            "word": "竭"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b8d1a8cbcd1834594857f1002bb3e4af4.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "dài",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/dai4.mp3"
+                },
+                {
+                    "pinyin": "dāi",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/dai1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=期待&cf=zuci&ptype=term",
+                    "word": "期待"
+                },
+                {
+                    "url": "?wd=接待&cf=zuci&ptype=term",
+                    "word": "接待"
+                },
+                {
+                    "url": "?wd=担待&cf=zuci&ptype=term",
+                    "word": "担待"
+                },
+                {
+                    "url": "?wd=等待&cf=zuci&ptype=term",
+                    "word": "等待"
+                },
+                {
+                    "url": "?wd=款待&cf=zuci&ptype=term",
+                    "word": "款待"
+                },
+                {
+                    "url": "?wd=招待&cf=zuci&ptype=term",
+                    "word": "招待"
+                },
+                {
+                    "url": "?wd=善待&cf=zuci&ptype=term",
+                    "word": "善待"
+                },
+                {
+                    "url": "?wd=待诏&cf=zuci&ptype=term",
+                    "word": "待诏"
+                },
+                {
+                    "url": "?wd=慢待&cf=zuci&ptype=term",
+                    "word": "慢待"
+                },
+                {
+                    "url": "?wd=有待&cf=zuci&ptype=term",
+                    "word": "有待"
+                },
+                {
+                    "url": "?wd=留待&cf=zuci&ptype=term",
+                    "word": "留待"
+                },
+                {
+                    "url": "?wd=待字&cf=zuci&ptype=term",
+                    "word": "待字"
+                },
+                {
+                    "url": "?wd=不待&cf=zuci&ptype=term",
+                    "word": "不待"
+                },
+                {
+                    "url": "?wd=待考&cf=zuci&ptype=term",
+                    "word": "待考"
+                }
+            ],
+            "word": "待"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49db5a6b427711e5b4f5c8e0eb15ce01.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "zhèng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng4.mp3"
+                },
+                {
+                    "pinyin": "zhēng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=挣钱&cf=zuci&ptype=term",
+                    "word": "挣钱"
+                },
+                {
+                    "url": "?wd=挣揣&cf=zuci&ptype=term",
+                    "word": "挣揣"
+                },
+                {
+                    "url": "?wd=挣扎&cf=zuci&ptype=term",
+                    "word": "挣扎"
+                },
+                {
+                    "url": "?wd=硬挣&cf=zuci&ptype=term",
+                    "word": "硬挣"
+                },
+                {
+                    "url": "?wd=挣命&cf=zuci&ptype=term",
+                    "word": "挣命"
+                },
+                {
+                    "url": "?wd=扎挣&cf=zuci&ptype=term",
+                    "word": "扎挣"
+                },
+                {
+                    "url": "?wd=挣挫&cf=zuci&ptype=term",
+                    "word": "挣挫"
+                },
+                {
+                    "url": "?wd=挣持&cf=zuci&ptype=term",
+                    "word": "挣持"
+                },
+                {
+                    "url": "?wd=呆挣&cf=zuci&ptype=term",
+                    "word": "呆挣"
+                },
+                {
+                    "url": "?wd=挣断&cf=zuci&ptype=term",
+                    "word": "挣断"
+                },
+                {
+                    "url": "?wd=执挣&cf=zuci&ptype=term",
+                    "word": "执挣"
+                },
+                {
+                    "url": "?wd=敌挣&cf=zuci&ptype=term",
+                    "word": "敌挣"
+                },
+                {
+                    "url": "?wd=挣本&cf=zuci&ptype=term",
+                    "word": "挣本"
+                },
+                {
+                    "url": "?wd=挣趱&cf=zuci&ptype=term",
+                    "word": "挣趱"
+                }
+            ],
+            "word": "挣"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b97af35e89b3a496593ffb4e44d3ab99f.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "zhǒu",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zhou3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=扫帚&cf=zuci&ptype=term",
+                    "word": "扫帚"
+                },
+                {
+                    "url": "?wd=笤帚&cf=zuci&ptype=term",
+                    "word": "笤帚"
+                },
+                {
+                    "url": "?wd=炊帚&cf=zuci&ptype=term",
+                    "word": "炊帚"
+                },
+                {
+                    "url": "?wd=帚姑&cf=zuci&ptype=term",
+                    "word": "帚姑"
+                },
+                {
+                    "url": "?wd=敝帚&cf=zuci&ptype=term",
+                    "word": "敝帚"
+                },
+                {
+                    "url": "?wd=椶帚&cf=zuci&ptype=term",
+                    "word": "椶帚"
+                },
+                {
+                    "url": "?wd=风帚&cf=zuci&ptype=term",
+                    "word": "风帚"
+                },
+                {
+                    "url": "?wd=弊帚&cf=zuci&ptype=term",
+                    "word": "弊帚"
+                },
+                {
+                    "url": "?wd=享帚&cf=zuci&ptype=term",
+                    "word": "享帚"
+                },
+                {
+                    "url": "?wd=帚星&cf=zuci&ptype=term",
+                    "word": "帚星"
+                },
+                {
+                    "url": "?wd=宝帚&cf=zuci&ptype=term",
+                    "word": "宝帚"
+                },
+                {
+                    "url": "?wd=梳帚&cf=zuci&ptype=term",
+                    "word": "梳帚"
+                },
+                {
+                    "url": "?wd=天帚&cf=zuci&ptype=term",
+                    "word": "天帚"
+                },
+                {
+                    "url": "?wd=鸾帚&cf=zuci&ptype=term",
+                    "word": "鸾帚"
+                }
+            ],
+            "word": "帚"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49d97da1427711e58b4ac8e0eb15ce01.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "mǒ",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/mo3.mp3"
+                },
+                {
+                    "pinyin": "mò",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/mo4.mp3"
+                },
+                {
+                    "pinyin": "mā",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ma1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=抹布&cf=zuci&ptype=term",
+                    "word": "抹布"
+                },
+                {
+                    "url": "?wd=涂抹&cf=zuci&ptype=term",
+                    "word": "涂抹"
+                },
+                {
+                    "url": "?wd=抹黑&cf=zuci&ptype=term",
+                    "word": "抹黑"
+                },
+                {
+                    "url": "?wd=抹煞&cf=zuci&ptype=term",
+                    "word": "抹煞"
+                },
+                {
+                    "url": "?wd=抹子&cf=zuci&ptype=term",
+                    "word": "抹子"
+                },
+                {
+                    "url": "?wd=抹搭&cf=zuci&ptype=term",
+                    "word": "抹搭"
+                },
+                {
+                    "url": "?wd=抹杀&cf=zuci&ptype=term",
+                    "word": "抹杀"
+                },
+                {
+                    "url": "?wd=抹零&cf=zuci&ptype=term",
+                    "word": "抹零"
+                },
+                {
+                    "url": "?wd=抹脸&cf=zuci&ptype=term",
+                    "word": "抹脸"
+                },
+                {
+                    "url": "?wd=抹刷&cf=zuci&ptype=term",
+                    "word": "抹刷"
+                },
+                {
+                    "url": "?wd=帑抹&cf=zuci&ptype=term",
+                    "word": "帑抹"
+                },
+                {
+                    "url": "?wd=量抹&cf=zuci&ptype=term",
+                    "word": "量抹"
+                },
+                {
+                    "url": "?wd=抹勒&cf=zuci&ptype=term",
+                    "word": "抹勒"
+                },
+                {
+                    "url": "?wd=抹面&cf=zuci&ptype=term",
+                    "word": "抹面"
+                }
+            ],
+            "word": "抹"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49f2a7b3427711e5ace2c8e0eb15ce01.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "bò",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/bo4.mp3"
+                },
+                {
+                    "pinyin": "bǒ",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/bo3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=颠簸&cf=zuci&ptype=term",
+                    "word": "颠簸"
+                },
+                {
+                    "url": "?wd=簸箕&cf=zuci&ptype=term",
+                    "word": "簸箕"
+                },
+                {
+                    "url": "?wd=簸荡&cf=zuci&ptype=term",
+                    "word": "簸荡"
+                },
+                {
+                    "url": "?wd=簸弄&cf=zuci&ptype=term",
+                    "word": "簸弄"
+                },
+                {
+                    "url": "?wd=簸箩&cf=zuci&ptype=term",
+                    "word": "簸箩"
+                },
+                {
+                    "url": "?wd=簸动&cf=zuci&ptype=term",
+                    "word": "簸动"
+                },
+                {
+                    "url": "?wd=掀簸&cf=zuci&ptype=term",
+                    "word": "掀簸"
+                },
+                {
+                    "url": "?wd=吹簸&cf=zuci&ptype=term",
+                    "word": "吹簸"
+                },
+                {
+                    "url": "?wd=飏簸&cf=zuci&ptype=term",
+                    "word": "飏簸"
+                },
+                {
+                    "url": "?wd=簸飏&cf=zuci&ptype=term",
+                    "word": "簸飏"
+                },
+                {
+                    "url": "?wd=舂簸&cf=zuci&ptype=term",
+                    "word": "舂簸"
+                },
+                {
+                    "url": "?wd=簸粃&cf=zuci&ptype=term",
+                    "word": "簸粃"
+                },
+                {
+                    "url": "?wd=簸运&cf=zuci&ptype=term",
+                    "word": "簸运"
+                },
+                {
+                    "url": "?wd=飘簸&cf=zuci&ptype=term",
+                    "word": "飘簸"
+                }
+            ],
+            "word": "簸"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bc959e76fd3a845669890f26a96a228a3.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "jī",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/ji1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=簸箕&cf=zuci&ptype=term",
+                    "word": "簸箕"
+                },
+                {
+                    "url": "?wd=畚箕&cf=zuci&ptype=term",
+                    "word": "畚箕"
+                },
+                {
+                    "url": "?wd=筲箕&cf=zuci&ptype=term",
+                    "word": "筲箕"
+                },
+                {
+                    "url": "?wd=箢箕&cf=zuci&ptype=term",
+                    "word": "箢箕"
+                },
+                {
+                    "url": "?wd=撮箕&cf=zuci&ptype=term",
+                    "word": "撮箕"
+                },
+                {
+                    "url": "?wd=箕踞&cf=zuci&ptype=term",
+                    "word": "箕踞"
+                },
+                {
+                    "url": "?wd=箕斗&cf=zuci&ptype=term",
+                    "word": "箕斗"
+                },
+                {
+                    "url": "?wd=箕瓢&cf=zuci&ptype=term",
+                    "word": "箕瓢"
+                },
+                {
+                    "url": "?wd=召箕&cf=zuci&ptype=term",
+                    "word": "召箕"
+                },
+                {
+                    "url": "?wd=扶箕&cf=zuci&ptype=term",
+                    "word": "扶箕"
+                },
+                {
+                    "url": "?wd=箕颍&cf=zuci&ptype=term",
+                    "word": "箕颍"
+                },
+                {
+                    "url": "?wd=伊箕&cf=zuci&ptype=term",
+                    "word": "伊箕"
+                },
+                {
+                    "url": "?wd=箕子&cf=zuci&ptype=term",
+                    "word": "箕子"
+                },
+                {
+                    "url": "?wd=箕扫&cf=zuci&ptype=term",
+                    "word": "箕扫"
+                }
+            ],
+            "word": "箕"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bd8ecc9cbeb2f48b085acc591162e0248.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "qiáng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/qiang2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=蔷薇&cf=zuci&ptype=term",
+                    "word": "蔷薇"
+                },
+                {
+                    "url": "?wd=东蔷&cf=zuci&ptype=term",
+                    "word": "东蔷"
+                },
+                {
+                    "url": "?wd=黄蔷薇&cf=zuci&ptype=term",
+                    "word": "黄蔷薇"
+                },
+                {
+                    "url": "?wd=蔷薇剑&cf=zuci&ptype=term",
+                    "word": "蔷薇剑"
+                },
+                {
+                    "url": "?wd=蔷薇露&cf=zuci&ptype=term",
+                    "word": "蔷薇露"
+                },
+                {
+                    "url": "?wd=蔷薇汤&cf=zuci&ptype=term",
+                    "word": "蔷薇汤"
+                },
+                {
+                    "url": "?wd=野蔷薇&cf=zuci&ptype=term",
+                    "word": "野蔷薇"
+                },
+                {
+                    "url": "?wd=蔷薇水&cf=zuci&ptype=term",
+                    "word": "蔷薇水"
+                },
+                {
+                    "url": "?wd=密蔷薇&cf=zuci&ptype=term",
+                    "word": "密蔷薇"
+                },
+                {
+                    "url": "?wd=事在萧蔷&cf=zuci&ptype=term",
+                    "word": "事在萧蔷"
+                },
+                {
+                    "url": "?wd=虎嗅蔷薇&cf=zuci&ptype=term",
+                    "word": "虎嗅蔷薇"
+                },
+                {
+                    "url": "?wd=抱蕙兰芬，吐蔷薇刺&cf=zuci&ptype=term",
+                    "word": "抱蕙兰芬，吐蔷薇刺"
+                },
+                {
+                    "url": "#",
+                    "word": null
+                }
+            ],
+            "word": "蔷"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b3be9c822d8a74e418b35c3ac2cd44979.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "pì",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/pi4.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=譬如&cf=zuci&ptype=term",
+                    "word": "譬如"
+                },
+                {
+                    "url": "?wd=譬方&cf=zuci&ptype=term",
+                    "word": "譬方"
+                },
+                {
+                    "url": "?wd=譬喻&cf=zuci&ptype=term",
+                    "word": "譬喻"
+                },
+                {
+                    "url": "?wd=譬犹&cf=zuci&ptype=term",
+                    "word": "譬犹"
+                },
+                {
+                    "url": "?wd=开譬&cf=zuci&ptype=term",
+                    "word": "开譬"
+                },
+                {
+                    "url": "?wd=宽譬&cf=zuci&ptype=term",
+                    "word": "宽譬"
+                },
+                {
+                    "url": "?wd=詶譬&cf=zuci&ptype=term",
+                    "word": "詶譬"
+                },
+                {
+                    "url": "?wd=晓譬&cf=zuci&ptype=term",
+                    "word": "晓譬"
+                },
+                {
+                    "url": "?wd=譬旨&cf=zuci&ptype=term",
+                    "word": "譬旨"
+                },
+                {
+                    "url": "?wd=假譬&cf=zuci&ptype=term",
+                    "word": "假譬"
+                },
+                {
+                    "url": "?wd=譬释&cf=zuci&ptype=term",
+                    "word": "譬释"
+                },
+                {
+                    "url": "?wd=譬之&cf=zuci&ptype=term",
+                    "word": "譬之"
+                },
+                {
+                    "url": "?wd=譬语&cf=zuci&ptype=term",
+                    "word": "譬语"
+                },
+                {
+                    "url": "?wd=比譬&cf=zuci&ptype=term",
+                    "word": "比譬"
+                }
+            ],
+            "word": "譬"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b649a26b737b24c0db722761ab1df9c2c.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "cāo",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/cao1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=粗糙&cf=zuci&ptype=term",
+                    "word": "粗糙"
+                },
+                {
+                    "url": "?wd=毛糙&cf=zuci&ptype=term",
+                    "word": "毛糙"
+                },
+                {
+                    "url": "?wd=糙粮&cf=zuci&ptype=term",
+                    "word": "糙粮"
+                },
+                {
+                    "url": "?wd=糙米&cf=zuci&ptype=term",
+                    "word": "糙米"
+                },
+                {
+                    "url": "?wd=乾糙&cf=zuci&ptype=term",
+                    "word": "乾糙"
+                },
+                {
+                    "url": "?wd=干糙&cf=zuci&ptype=term",
+                    "word": "干糙"
+                },
+                {
+                    "url": "?wd=糙率&cf=zuci&ptype=term",
+                    "word": "糙率"
+                },
+                {
+                    "url": "?wd=麤糙&cf=zuci&ptype=term",
+                    "word": "麤糙"
+                },
+                {
+                    "url": "?wd=糙汉&cf=zuci&ptype=term",
+                    "word": "糙汉"
+                },
+                {
+                    "url": "?wd=糙糠&cf=zuci&ptype=term",
+                    "word": "糙糠"
+                },
+                {
+                    "url": "?wd=糙漆&cf=zuci&ptype=term",
+                    "word": "糙漆"
+                },
+                {
+                    "url": "?wd=糙面带&cf=zuci&ptype=term",
+                    "word": "糙面带"
+                },
+                {
+                    "url": "?wd=粗糙度&cf=zuci&ptype=term",
+                    "word": "粗糙度"
+                },
+                {
+                    "url": "?wd=糙零呆&cf=zuci&ptype=term",
+                    "word": "糙零呆"
+                }
+            ],
+            "word": "糙"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b0d7f02d37b7f41258013eaec7c5228b4.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "zhēng",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zheng1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=睁眼&cf=zuci&ptype=term",
+                    "word": "睁眼"
+                },
+                {
+                    "url": "?wd=睖睁&cf=zuci&ptype=term",
+                    "word": "睖睁"
+                },
+                {
+                    "url": "?wd=青睁&cf=zuci&ptype=term",
+                    "word": "青睁"
+                },
+                {
+                    "url": "?wd=睁察&cf=zuci&ptype=term",
+                    "word": "睁察"
+                },
+                {
+                    "url": "?wd=楞睁&cf=zuci&ptype=term",
+                    "word": "楞睁"
+                },
+                {
+                    "url": "?wd=睁睁&cf=zuci&ptype=term",
+                    "word": "睁睁"
+                },
+                {
+                    "url": "?wd=眼睁&cf=zuci&ptype=term",
+                    "word": "眼睁"
+                },
+                {
+                    "url": "?wd=睁叉&cf=zuci&ptype=term",
+                    "word": "睁叉"
+                },
+                {
+                    "url": "?wd=睁眼瞎&cf=zuci&ptype=term",
+                    "word": "睁眼瞎"
+                },
+                {
+                    "url": "?wd=眼睁睁&cf=zuci&ptype=term",
+                    "word": "眼睁睁"
+                },
+                {
+                    "url": "?wd=棱睁神&cf=zuci&ptype=term",
+                    "word": "棱睁神"
+                },
+                {
+                    "url": "?wd=矻睁睁&cf=zuci&ptype=term",
+                    "word": "矻睁睁"
+                },
+                {
+                    "url": "?wd=睁眼瞎子&cf=zuci&ptype=term",
+                    "word": "睁眼瞎子"
+                },
+                {
+                    "url": "?wd=睁眼苫眉&cf=zuci&ptype=term",
+                    "word": "睁眼苫眉"
+                }
+            ],
+            "word": "睁"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bafb2f7fc4a0a41f2993ce225ae986031.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "zhì",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/zhi4.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=秩序&cf=zuci&ptype=term",
+                    "word": "秩序"
+                },
+                {
+                    "url": "?wd=改秩&cf=zuci&ptype=term",
+                    "word": "改秩"
+                },
+                {
+                    "url": "?wd=优秩&cf=zuci&ptype=term",
+                    "word": "优秩"
+                },
+                {
+                    "url": "?wd=秩稍&cf=zuci&ptype=term",
+                    "word": "秩稍"
+                },
+                {
+                    "url": "?wd=要秩&cf=zuci&ptype=term",
+                    "word": "要秩"
+                },
+                {
+                    "url": "?wd=本秩&cf=zuci&ptype=term",
+                    "word": "本秩"
+                },
+                {
+                    "url": "?wd=第秩&cf=zuci&ptype=term",
+                    "word": "第秩"
+                },
+                {
+                    "url": "?wd=秩禄&cf=zuci&ptype=term",
+                    "word": "秩禄"
+                },
+                {
+                    "url": "?wd=班秩&cf=zuci&ptype=term",
+                    "word": "班秩"
+                },
+                {
+                    "url": "?wd=华秩&cf=zuci&ptype=term",
+                    "word": "华秩"
+                },
+                {
+                    "url": "?wd=秩位&cf=zuci&ptype=term",
+                    "word": "秩位"
+                },
+                {
+                    "url": "?wd=仙秩&cf=zuci&ptype=term",
+                    "word": "仙秩"
+                },
+                {
+                    "url": "?wd=迁秩&cf=zuci&ptype=term",
+                    "word": "迁秩"
+                },
+                {
+                    "url": "?wd=天秩&cf=zuci&ptype=term",
+                    "word": "天秩"
+                }
+            ],
+            "word": "秩"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b053e2fa41a23403e8d25d517e4e33f46.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "jiān",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jian1.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=艰苦&cf=zuci&ptype=term",
+                    "word": "艰苦"
+                },
+                {
+                    "url": "?wd=艰深&cf=zuci&ptype=term",
+                    "word": "艰深"
+                },
+                {
+                    "url": "?wd=艰巨&cf=zuci&ptype=term",
+                    "word": "艰巨"
+                },
+                {
+                    "url": "?wd=艰难&cf=zuci&ptype=term",
+                    "word": "艰难"
+                },
+                {
+                    "url": "?wd=艰涩&cf=zuci&ptype=term",
+                    "word": "艰涩"
+                },
+                {
+                    "url": "?wd=丁艰&cf=zuci&ptype=term",
+                    "word": "丁艰"
+                },
+                {
+                    "url": "?wd=艰辛&cf=zuci&ptype=term",
+                    "word": "艰辛"
+                },
+                {
+                    "url": "?wd=内艰&cf=zuci&ptype=term",
+                    "word": "内艰"
+                },
+                {
+                    "url": "?wd=外艰&cf=zuci&ptype=term",
+                    "word": "外艰"
+                },
+                {
+                    "url": "?wd=艰阨&cf=zuci&ptype=term",
+                    "word": "艰阨"
+                },
+                {
+                    "url": "?wd=艰食&cf=zuci&ptype=term",
+                    "word": "艰食"
+                },
+                {
+                    "url": "?wd=艰梗&cf=zuci&ptype=term",
+                    "word": "艰梗"
+                },
+                {
+                    "url": "?wd=艰虞&cf=zuci&ptype=term",
+                    "word": "艰虞"
+                },
+                {
+                    "url": "?wd=艰患&cf=zuci&ptype=term",
+                    "word": "艰患"
+                }
+            ],
+            "word": "艰"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b49fcd475427711e5ae6dc8e0eb15ce01.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "liè",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lie4.mp3"
+                },
+                {
+                    "pinyin": "liě",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/lie3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=崩裂&cf=zuci&ptype=term",
+                    "word": "崩裂"
+                },
+                {
+                    "url": "?wd=分裂&cf=zuci&ptype=term",
+                    "word": "分裂"
+                },
+                {
+                    "url": "?wd=迸裂&cf=zuci&ptype=term",
+                    "word": "迸裂"
+                },
+                {
+                    "url": "?wd=裂缝&cf=zuci&ptype=term",
+                    "word": "裂缝"
+                },
+                {
+                    "url": "?wd=裂开&cf=zuci&ptype=term",
+                    "word": "裂开"
+                },
+                {
+                    "url": "?wd=破裂&cf=zuci&ptype=term",
+                    "word": "破裂"
+                },
+                {
+                    "url": "?wd=绽裂&cf=zuci&ptype=term",
+                    "word": "绽裂"
+                },
+                {
+                    "url": "?wd=龟裂&cf=zuci&ptype=term",
+                    "word": "龟裂"
+                },
+                {
+                    "url": "?wd=皴裂&cf=zuci&ptype=term",
+                    "word": "皴裂"
+                },
+                {
+                    "url": "?wd=车裂&cf=zuci&ptype=term",
+                    "word": "车裂"
+                },
+                {
+                    "url": "?wd=裂变&cf=zuci&ptype=term",
+                    "word": "裂变"
+                },
+                {
+                    "url": "?wd=开裂&cf=zuci&ptype=term",
+                    "word": "开裂"
+                },
+                {
+                    "url": "?wd=干裂&cf=zuci&ptype=term",
+                    "word": "干裂"
+                },
+                {
+                    "url": "?wd=爆裂&cf=zuci&ptype=term",
+                    "word": "爆裂"
+                }
+            ],
+            "word": "裂"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b28d299fc7063474d89fe600fec0db78a.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "jià",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/jia4.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=庄稼&cf=zuci&ptype=term",
+                    "word": "庄稼"
+                },
+                {
+                    "url": "?wd=稼穑&cf=zuci&ptype=term",
+                    "word": "稼穑"
+                },
+                {
+                    "url": "?wd=云稼&cf=zuci&ptype=term",
+                    "word": "云稼"
+                },
+                {
+                    "url": "?wd=美稼&cf=zuci&ptype=term",
+                    "word": "美稼"
+                },
+                {
+                    "url": "?wd=谈稼&cf=zuci&ptype=term",
+                    "word": "谈稼"
+                },
+                {
+                    "url": "?wd=苗稼&cf=zuci&ptype=term",
+                    "word": "苗稼"
+                },
+                {
+                    "url": "?wd=阅稼&cf=zuci&ptype=term",
+                    "word": "阅稼"
+                },
+                {
+                    "url": "?wd=沈稼&cf=zuci&ptype=term",
+                    "word": "沈稼"
+                },
+                {
+                    "url": "?wd=学稼&cf=zuci&ptype=term",
+                    "word": "学稼"
+                },
+                {
+                    "url": "?wd=生稼&cf=zuci&ptype=term",
+                    "word": "生稼"
+                },
+                {
+                    "url": "?wd=桑稼&cf=zuci&ptype=term",
+                    "word": "桑稼"
+                },
+                {
+                    "url": "?wd=冰稼&cf=zuci&ptype=term",
+                    "word": "冰稼"
+                },
+                {
+                    "url": "?wd=稻稼&cf=zuci&ptype=term",
+                    "word": "稻稼"
+                },
+                {
+                    "url": "?wd=稼事&cf=zuci&ptype=term",
+                    "word": "稼事"
+                }
+            ],
+            "word": "稼"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/b8b560c4d8281472e9b2d22c54a8fe315.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "kuǎ",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/kua3.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=打垮&cf=zuci&ptype=term",
+                    "word": "打垮"
+                },
+                {
+                    "url": "?wd=垮台&cf=zuci&ptype=term",
+                    "word": "垮台"
+                },
+                {
+                    "url": "?wd=击垮&cf=zuci&ptype=term",
+                    "word": "击垮"
+                },
+                {
+                    "url": "?wd=垮塌&cf=zuci&ptype=term",
+                    "word": "垮塌"
+                },
+                {
+                    "url": "?wd=垮杆&cf=zuci&ptype=term",
+                    "word": "垮杆"
+                },
+                {
+                    "url": "?wd=搞垮&cf=zuci&ptype=term",
+                    "word": "搞垮"
+                },
+                {
+                    "url": "?wd=冲垮&cf=zuci&ptype=term",
+                    "word": "冲垮"
+                },
+                {
+                    "url": "?wd=松垮&cf=zuci&ptype=term",
+                    "word": "松垮"
+                },
+                {
+                    "url": "?wd=拖垮&cf=zuci&ptype=term",
+                    "word": "拖垮"
+                },
+                {
+                    "url": "?wd=松垮垮&cf=zuci&ptype=term",
+                    "word": "松垮垮"
+                },
+                {
+                    "url": "?wd=吹垮垮&cf=zuci&ptype=term",
+                    "word": "吹垮垮"
+                },
+                {
+                    "url": "?wd=松松垮垮&cf=zuci&ptype=term",
+                    "word": "松松垮垮"
+                },
+                {
+                    "url": "#",
+                    "word": null
+                }
+            ],
+            "word": "垮"
+        },
+        {
+            "bishun": "https://hanyu-word-gif.cdn.bcebos.com/bde5e18c176ff465c9ff8deec552cfaed.gif",
+            "pinyinlist": [
+                {
+                    "pinyin": "fén",
+                    "pronounce": "https://hanyu-word-pinyin-short.cdn.bcebos.com/fen2.mp3"
+                }
+            ],
+            "zuci": [
+                {
+                    "url": "?wd=坟茔&cf=zuci&ptype=term",
+                    "word": "坟茔"
+                },
+                {
+                    "url": "?wd=坟地&cf=zuci&ptype=term",
+                    "word": "坟地"
+                },
+                {
+                    "url": "?wd=坟山&cf=zuci&ptype=term",
+                    "word": "坟山"
+                },
+                {
+                    "url": "?wd=坟墓&cf=zuci&ptype=term",
+                    "word": "坟墓"
+                },
+                {
+                    "url": "?wd=祖坟&cf=zuci&ptype=term",
+                    "word": "祖坟"
+                },
+                {
+                    "url": "?wd=坟头&cf=zuci&ptype=term",
+                    "word": "坟头"
+                },
+                {
+                    "url": "?wd=上坟&cf=zuci&ptype=term",
+                    "word": "上坟"
+                },
+                {
+                    "url": "?wd=陵坟&cf=zuci&ptype=term",
+                    "word": "陵坟"
+                },
+                {
+                    "url": "?wd=坟策&cf=zuci&ptype=term",
+                    "word": "坟策"
+                },
+                {
+                    "url": "?wd=坟史&cf=zuci&ptype=term",
+                    "word": "坟史"
+                },
+                {
+                    "url": "?wd=修坟&cf=zuci&ptype=term",
+                    "word": "修坟"
+                },
+                {
+                    "url": "?wd=生坟&cf=zuci&ptype=term",
+                    "word": "生坟"
+                },
+                {
+                    "url": "?wd=岳坟&cf=zuci&ptype=term",
+                    "word": "岳坟"
+                },
+                {
+                    "url": "?wd=坟院&cf=zuci&ptype=term",
+                    "word": "坟院"
+                }
+            ],
+            "word": "坟"
+        }
+    ]
+}
