@@ -23,5 +23,10 @@
         "title": "识字",
         "type": 5,
         "url": "/polls/shizi/shizilist.json"
+    },
+    {
+        "title": "录像",
+        "type": 6,
+        "url": "/polls/shizi/shizilist.json"
     }]
 }
